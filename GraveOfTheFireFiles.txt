@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt ttp:contentProfiles="http://www.w3.org/ns/ttml/profile/imsc1.1/text" xmlns="http://www.w3.org/ns/ttml" xmlns:ebutts="urn:ebu:tt:style" xmlns:nttm="http://www.netflix.com/ns/ttml#metadata" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:xml="http://www.w3.org/XML/1998/namespace" ttp:tickRate="10000000" ttp:timeBase="media" xml:lang="ja">
+<head>
+<metadata nttm:schemaVersion="0" nttm:textType="CC" nttm:uuid="96ae41b4-f014-44a2-ae6e-9293b88fed28"/>
+<styling>
+<initial tts:backgroundColor="transparent" tts:color="white" tts:extent="80.000% 80.000%" tts:fontFamily="Japanese" tts:opacity="1.000" tts:origin="10.000% 10.000%" tts:showBackground="whenActive" tts:textOutline="black 0.050em" tts:writingMode="lrtb"/>
+<style xml:id="style0" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:rubyReserve="outside" tts:shear="16.670%" tts:textAlign="center"/>
+<style xml:id="style1" tts:fontSize="6.000rh" tts:fontStyle="normal" tts:fontWeight="normal" tts:rubyReserve="outside" tts:shear="16.670%"/>
+<style xml:id="style2" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:ruby="container" tts:shear="16.670%"/>
+<style xml:id="style3" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:ruby="base" tts:shear="16.670%"/>
+<style xml:id="style4" tts:fontWeight="normal" tts:ruby="text" tts:shear="16.670%"/>
+<style xml:id="style5" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:rubyReserve="outside" tts:textAlign="center"/>
+<style xml:id="style6" tts:fontSize="6.000rh" tts:fontStyle="normal" tts:fontWeight="normal" tts:rubyReserve="outside"/>
+<style xml:id="style7" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:rubyReserve="outside" tts:textAlign="start"/>
+<style xml:id="style8" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:ruby="container"/>
+<style xml:id="style9" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:ruby="base"/>
+<style xml:id="style10" tts:fontWeight="normal" tts:ruby="text"/>
+<style xml:id="style11" tts:fontSize="6.000rh" tts:fontWeight="normal" tts:rubyReserve="outside" tts:shear="16.670%" tts:textAlign="start"/>
+</styling>
+<layout>
+<region xml:id="region0" ebutts:multiRowAlign="start" tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%"/>
+<region xml:id="region1" ebutts:multiRowAlign="start" tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.000% 80.000%" tts:origin="10.000% 10.000%" tts:writingMode="tbrl"/>
+</layout>
+</head>
+<body>
+<div>
+<p xml:id="subtitle1" begin="192275417t" end="223556667t" region="region0" style="style0"><span style="style1">（</span><span style="style2"><span style="style3">清太</span><span style="style4">せいた</span></span><span style="style1">の声）</span>昭和20年９月21日夜</p>
+<p xml:id="subtitle2" begin="233149584t" end="245245000t" region="region0" style="style0">僕は死んだ</p>
+<p xml:id="subtitle3" begin="416249167t" end="458374584t" region="region0" style="style5"><span style="style6">（かすかな呼吸）</span></p>
+<p xml:id="subtitle4" begin="516349167t" end="531781250t" region="region0" style="style5"><span style="style6">（雑踏）</span></p>
+<p xml:id="subtitle5" begin="546796250t" end="575575000t" region="region1" style="style7"><span style="style6">（男性）おっとっと</span><br/><span style="style6">汚いやっちゃなぁ</span></p>
+<p xml:id="subtitle6" begin="580997084t" end="596846250t" region="region1" style="style7"><span style="style6">（男性）</span><br/><span style="style6">おい 気ぃつけんかい</span></p>
+<p xml:id="subtitle7" begin="606856250t" end="619785834t" region="region0" style="style5"><span style="style6">（女性）汚いなあ</span></p>
+<p xml:id="subtitle8" begin="620620000t" end="633966667t" region="region0" style="style5"><span style="style6">（男性）死んどんのやろか</span></p>
+<p xml:id="subtitle9" begin="634800834t" end="656906250t" region="region0" style="style5"><span style="style6">（男性）アメリカ軍が</span><br/><span style="style6">もうすぐ来るちゅうのに</span></p>
+<p xml:id="subtitle10" begin="657740417t" end="681514167t" region="region0" style="style5"><span style="style6">恥やで 駅に こんなんおったら</span></p>
+<p xml:id="subtitle11" begin="694443750t" end="717383334t" region="region0" style="style5"><span style="style6">（遠のく雑踏）</span></p>
+<p xml:id="subtitle12" begin="718217500t" end="732815417t" region="region0" style="style5"><span style="style6">（</span><span style="style8"><span style="style9">下駄</span><span style="style10">げた</span></span><span style="style6">の足音）</span></p>
+<p xml:id="subtitle13" begin="733649584t" end="762428334t" region="region0" style="style5"><span style="style6">（電車の走行音）</span></p>
+<p xml:id="subtitle14" begin="776192084t" end="792458334t" region="region0" style="style0"><span style="style1">（</span><span style="style2"><span style="style3">節子</span><span style="style4">せつこ</span></span><span style="style1">）</span>お母ちゃーん</p>
+<p xml:id="subtitle15" begin="793292500t" end="812061250t" region="region0" style="style5"><span style="style6">（走る下駄の足音）</span></p>
+<p xml:id="subtitle16" begin="812895417t" end="843342500t" region="region1" style="style11"><span style="style1">（清太）</span><br/>今 何日なんやろ…</p>
+<p xml:id="subtitle17" begin="853352500t" end="862528334t" region="region0" style="style5"><span style="style6">（倒れる音）</span></p>
+<p xml:id="subtitle18" begin="953869584t" end="970135834t" region="region0" style="style5"><span style="style6">（清太）節子…</span></p>
+<p xml:id="subtitle19" begin="999331667t" end="1016015000t" region="region0" style="style5"><span style="style6">（足音）</span></p>
+<p xml:id="subtitle20" begin="1075240834t" end="1086919167t" region="region0" style="style5"><span style="style6">（駅員Ａ）またか</span></p>
+<p xml:id="subtitle21" begin="1131130000t" end="1150315834t" region="region0" style="style5"><span style="style6">-（缶が転がる音）</span><br/><span style="style6">-（駅員Ａ）ん？</span></p>
+<p xml:id="subtitle22" begin="1166999167t" end="1184933750t" region="region0" style="style5"><span style="style6">（足音）</span></p>
+<p xml:id="subtitle23" begin="1194109584t" end="1220385834t" region="region0" style="style5"><span style="style6">（駅員Ａ）あっ… チッ あ～</span></p>
+<p xml:id="subtitle24" begin="1231230000t" end="1244576667t" region="region0" style="style5"><span style="style6">なんや これ</span></p>
+<p xml:id="subtitle25" begin="1245410834t" end="1277943334t" region="region0" style="style5"><span style="style6">（駅員Ｂ）ほっとけ ほっとけ</span><br/><span style="style6">捨てといたらええねや</span></p>
+<p xml:id="subtitle26" begin="1278777500t" end="1290038750t" region="region0" style="style5"><span style="style6">ああ…</span></p>
+<p xml:id="subtitle27" begin="1290872917t" end="1316315000t" region="region0" style="style5"><span style="style6">-（かすかな呼吸）</span><br/><span style="style6">-（駅員Ａ）ん？</span></p>
+<p xml:id="subtitle28" begin="1398063334t" end="1424756667t" region="region0" style="style5"><span style="style6">こっちのやつも</span><br/><span style="style6">もうじき いてまいよるで</span></p>
+<p xml:id="subtitle29" begin="1425590834t" end="1454369584t" region="region0" style="style5"><span style="style6">目ぇ ぽかっと開けてるように</span><br/><span style="style6">なったら あかんわ</span></p>
+<p xml:id="subtitle30" begin="1487736250t" end="1511927084t" region="region0" style="style5"><span style="style6">（缶がカラカラと鳴る音）</span></p>
+<p xml:id="subtitle31" begin="1523605417t" end="1544042500t" region="region0" style="style5"><span style="style6">（鈴虫の音）</span></p>
+<p xml:id="subtitle32" begin="1584499584t" end="1594092500t" region="region0" style="style5"><span style="style6">んっ！</span></p>
+<p xml:id="subtitle33" begin="1634966667t" end="1685016667t" region="region0" style="style5"><span style="style6">♪～</span></p>
+<p xml:id="subtitle34" begin="2672670000t" end="2695609584t" region="region0" style="style5"><span style="style6">（電車の警笛）</span></p>
+<p xml:id="subtitle35" begin="2696443750t" end="2745659584t" region="region0" style="style5"><span style="style6">～♪</span></p>
+<p xml:id="subtitle36" begin="2922085834t" end="2939186250t" region="region0" style="style5"><span style="style6">-（空襲警報のサイレン）</span><br/><span style="style6">-（警防団員）退避　退避！</span></p>
+<p xml:id="subtitle37" begin="2940020417t" end="2959206250t" region="region0" style="style5"><span style="style6">退避してください</span><br/><span style="style6">退避してください！</span></p>
+<p xml:id="subtitle38" begin="2960040417t" end="2982562917t" region="region0" style="style5"><span style="style6">（男性）あっ </span><span style="style8"><span style="style9">坂巻</span><span style="style10">さかまき</span></span><span style="style6">さん</span><br/><span style="style6">ご苦労さんです</span></p>
+<p xml:id="subtitle39" begin="2983397084t" end="3000080417t" region="region0" style="style5"><span style="style6">（男性）</span><br/><span style="style6">敵さん 大編隊らしいですな</span></p>
+<p xml:id="subtitle40" begin="3000914584t" end="3015929584t" region="region0" style="style5"><span style="style6">（男性）こないだみたいな</span><br/><span style="style6">爆撃やったら</span></p>
+<p xml:id="subtitle41" begin="3016763750t" end="3039286250t" region="region0" style="style5"><span style="style6">消防裏の</span><span style="style8"><span style="style9">壕</span><span style="style10">ごう</span></span><span style="style6">が一番 安全やろ</span></p>
+<p xml:id="subtitle42" begin="3040120417t" end="3060557500t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle43" begin="3079743334t" end="3093924167t" region="region0" style="style5"><span style="style6">（節子）暑いわ</span></p>
+<p xml:id="subtitle44" begin="3094758334t" end="3118532084t" region="region0" style="style5"><span style="style6">（母）ええ子やろ　辛抱するんよ</span></p>
+<p xml:id="subtitle45" begin="3127290834t" end="3141888750t" region="region0" style="style5"><span style="style6">-（節子）あ～ん！</span><br/><span style="style6">-（母）あっ</span></p>
+<p xml:id="subtitle46" begin="3165662500t" end="3194858334t" region="region0" style="style5"><span style="style6">ほな 一足先に</span><br/><span style="style6">壕に行かしてもらうからね</span></p>
+<p xml:id="subtitle47" begin="3200280417t" end="3228225000t" region="region0" style="style5"><span style="style6">あんたらも気ぃつけて</span><br/><span style="style6">はよ おいでよ</span></p>
+<p xml:id="subtitle48" begin="3236983750t" end="3267013750t" region="region0" style="style5"><span style="style8"><span style="style9">節</span><span style="style10">せっ</span></span><span style="style6">ちゃん　お兄ちゃんの言うこと</span><br/><span style="style6">よう聞くんよ</span></p>
+<p xml:id="subtitle49" begin="3267847917t" end="3297043750t" region="region0" style="style5"><span style="style6">お母ちゃん</span><br/><span style="style6">そんなことええから はよ出な</span></p>
+<p xml:id="subtitle50" begin="3297877917t" end="3306636667t" region="region0" style="style5"><span style="style6">はいはい</span></p>
+<p xml:id="subtitle51" begin="3319566250t" end="3343757084t" region="region0" style="style5"><span style="style6">（清太）</span><br/><span style="style6">あっ お母ちゃん 薬 持った？</span></p>
+<p xml:id="subtitle52" begin="3344591250t" end="3365028334t" region="region0" style="style5"><span style="style6">はいはい　持ちました</span></p>
+<p xml:id="subtitle53" begin="3412158750t" end="3430927500t" region="region0" style="style5"><span style="style6">（節子）防空壕 イヤやなぁ</span></p>
+<p xml:id="subtitle54" begin="3431761667t" end="3458455000t" region="region0" style="style5"><span style="style6">そないなこと言うとって</span><br/><span style="style6">爆弾で ぶっ飛ばされても知らんで</span></p>
+<p xml:id="subtitle55" begin="3459289167t" end="3473470000t" region="region0" style="style5"><span style="style6">はよ おぶさり</span></p>
+<p xml:id="subtitle56" begin="3538952084t" end="3554801250t" region="region0" style="style5"><span style="style6">あ～っ お人形！</span></p>
+<p xml:id="subtitle57" begin="3555635417t" end="3564811250t" region="region0" style="style5"><span style="style6">（清太）え？</span></p>
+<p xml:id="subtitle58" begin="3668247917t" end="3684931250t" region="region0" style="style5"><span style="style6">-（半鐘の連打音）</span><br/><span style="style6">-（警防団員）退避ー！</span></p>
+<p xml:id="subtitle59" begin="3685765417t" end="3697860834t" region="region0" style="style5"><span style="style6">（２人）あっ…</span></p>
+<p xml:id="subtitle60" begin="3698695000t" end="3707453750t" region="region0" style="style5"><span style="style6">兄ちゃん！</span></p>
+<p xml:id="subtitle61" begin="3759172084t" end="3789202084t" region="region0" style="style5"><span style="style6">（Ｂ29の飛行音）</span></p>
+<p xml:id="subtitle62" begin="3805468334t" end="3823820000t" region="region0" style="style5"><span style="style6">（</span><span style="style8"><span style="style9">焼夷</span><span style="style10">しょうい</span></span><span style="style6">弾の落下音）</span></p>
+<p xml:id="subtitle63" begin="3824654167t" end="3832995834t" region="region0" style="style5"><span style="style6">あっ…</span></p>
+<p xml:id="subtitle64" begin="3841754584t" end="3867613750t" region="region0" style="style5"><span style="style6">-（節子）伏せんとー！</span><br/><span style="style6">-（清太）ああっ</span></p>
+<p xml:id="subtitle65" begin="3894724167t" end="3918915000t" region="region0" style="style5"><span style="style6">-（落下音消失）</span><br/><span style="style6">-（Ｂ29の飛行音）</span></p>
+<p xml:id="subtitle66" begin="3931010417t" end="3944774167t" region="region0" style="style5"><span style="style6">あっ…</span></p>
+<p xml:id="subtitle67" begin="3967296667t" end="3986482500t" region="region0" style="style5"><span style="style6">（焼夷弾の落下音）</span></p>
+<p xml:id="subtitle68" begin="3987316667t" end="4012341667t" region="region0" style="style5"><span style="style6">-（節子）イヤ！</span><br/><span style="style6">-（清太）ああ… あ…</span></p>
+<p xml:id="subtitle69" begin="4079909167t" end="4092004584t" region="region0" style="style5"><span style="style6">（清太）ああっ！</span></p>
+<p xml:id="subtitle70" begin="4123285834t" end="4137049584t" region="region0" style="style5"><span style="style6">（落下音消失）</span></p>
+<p xml:id="subtitle71" begin="4471550417t" end="4484062917t" region="region0" style="style5"><span style="style6">-（爆発音）</span><br/><span style="style6">-（２人）わーっ！</span></p>
+<p xml:id="subtitle72" begin="4484897084t" end="4510756250t" region="region0" style="style5"><span style="style6">（節子）</span><br/><span style="style6">兄ちゃん 兄ちゃん 兄ちゃん！</span></p>
+<p xml:id="subtitle73" begin="4560389167t" end="4573318750t" region="region0" style="style5"><span style="style6">（猫の鳴き声）</span></p>
+<p xml:id="subtitle74" begin="4620449167t" end="4648810834t" region="region0" style="style5"><span style="style6">-（清太）あ…</span><br/><span style="style6">-（節子）あ～ 兄ちゃん！</span></p>
+<p xml:id="subtitle75" begin="4699277917t" end="4735147084t" region="region0" style="style5"><span style="style6">（焼夷弾の落下音）</span></p>
+<p xml:id="subtitle76" begin="4767262500t" end="4793955834t" region="region0" style="style5"><span style="style6">あっ…　あっ…</span></p>
+<p xml:id="subtitle77" begin="4841503334t" end="4849845000t" region="region0" style="style5"><span style="style6">あっ</span></p>
+<p xml:id="subtitle78" begin="4868196667t" end="4876955417t" region="region0" style="style5"><span style="style6">あっ</span></p>
+<p xml:id="subtitle79" begin="4934095834t" end="4949110834t" region="region0" style="style5"><span style="style6">（女性）押さんといて！</span></p>
+<p xml:id="subtitle80" begin="4949945000t" end="4968296667t" region="region0" style="style5"><span style="style6">（男性）何しとるんや ドアホ！</span></p>
+<p xml:id="subtitle81" begin="5024602917t" end="5035447084t" region="region0" style="style5"><span style="style6">（女性の悲鳴）</span></p>
+<p xml:id="subtitle82" begin="5036281250t" end="5052964584t" region="region0" style="style5"><span style="style6">（馬のいななき）</span></p>
+<p xml:id="subtitle83" begin="5087165417t" end="5100095000t" region="region0" style="style5"><span style="style6">（男性）後ろ！</span></p>
+<p xml:id="subtitle84" begin="5108019584t" end="5124285834t" region="region0" style="style5"><span style="style6">（人々の悲鳴）</span></p>
+<p xml:id="subtitle85" begin="5125120000t" end="5149310834t" region="region0" style="style5"><span style="style6">（焼夷弾の落下音）</span></p>
+<p xml:id="subtitle86" begin="5150145000t" end="5158903750t" region="region0" style="style5"><span style="style6">あっ！</span></p>
+<p xml:id="subtitle87" begin="5168079584t" end="5178089584t" region="region0" style="style5"><span style="style6">ああ…</span></p>
+<p xml:id="subtitle88" begin="5240235000t" end="5274018750t" region="region0" style="style5"><span style="style6">（女性）はよしい 急いで</span><br/><span style="style6">みんな持ってきはりましたか？</span></p>
+<p xml:id="subtitle89" begin="5274852917t" end="5301963334t" region="region0" style="style5"><span style="style6">お父さん あれも！</span><br/><span style="style6">忘れんと はよう！</span></p>
+<p xml:id="subtitle90" begin="5604765834t" end="5628956667t" region="region0" style="style5"><span style="style6">-（清太）ハア ハア</span><br/><span style="style6">-（節子）あっ ああ…</span></p>
+<p xml:id="subtitle91" begin="5629790834t" end="5673167500t" region="region0" style="style5"><span style="style6">-（清太）ハア ハア ハア…</span><br/><span style="style6">-（節子の震える息）</span></p>
+<p xml:id="subtitle92" begin="5689850834t" end="5745740000t" region="region0" style="style5"><span style="style6">（赤ん坊の泣き声）</span></p>
+<p xml:id="subtitle93" begin="5823317500t" end="5857935417t" region="region0" style="style5"><span style="style6">（男性）天皇陛下 バンザーイ！</span></p>
+<p xml:id="subtitle94" begin="6034778750t" end="6044371667t" region="region0" style="style5"><span style="style6">（清太）ん？</span></p>
+<p xml:id="subtitle95" begin="6059803750t" end="6085245834t" region="region0" style="style5"><span style="style6">心配あらへん</span><br/><span style="style6">ここやったら大丈夫や</span></p>
+<p xml:id="subtitle96" begin="6097758334t" end="6121115000t" region="region0" style="style5"><span style="style6">お母ちゃん どこ行った？</span></p>
+<p xml:id="subtitle97" begin="6129873750t" end="6144888750t" region="region0" style="style5"><span style="style6">防空壕に いてるよ</span></p>
+<p xml:id="subtitle98" begin="6161572084t" end="6202446250t" region="region0" style="style5"><span style="style6">消防裏の壕 250キロの直撃かて</span><br/><span style="style6">大丈夫 言うとったもん</span></p>
+<p xml:id="subtitle99" begin="6203280417t" end="6214958750t" region="region0" style="style5"><span style="style6">心配ないわ</span></p>
+<p xml:id="subtitle100" begin="6330907917t" end="6360937917t" region="region0" style="style5"><span style="style6">お母ちゃん きっと</span><br/><span style="style8"><span style="style9">二本松</span><span style="style10">にほんまつ</span></span><span style="style6">のねきに来てるわ</span></p>
+<p xml:id="subtitle101" begin="6368445417t" end="6387214167t" region="region0" style="style5"><span style="style6">二本松で落ち合うはずやから</span></p>
+<p xml:id="subtitle102" begin="6392219167t" end="6412239167t" region="region0" style="style5"><span style="style6">もうちょっと休んでから行こ</span></p>
+<p xml:id="subtitle103" begin="6481892084t" end="6499409584t" region="region0" style="style5"><span style="style6">体 何ともないか？　節子</span></p>
+<p xml:id="subtitle104" begin="6500243750t" end="6525268750t" region="region0" style="style5"><span style="style6">下駄１つ あらんようになった</span></p>
+<p xml:id="subtitle105" begin="6531525000t" end="6540283750t" region="region0" style="style5"><span style="style6">え？</span></p>
+<p xml:id="subtitle106" begin="6546957084t" end="6572816250t" region="region0" style="style5"><span style="style6">兄ちゃん </span><span style="style8"><span style="style9">買</span><span style="style10">こ</span></span><span style="style6">うたるよ</span><br/><span style="style6">もっとええのん</span></p>
+<p xml:id="subtitle107" begin="6589916667t" end="6610353750t" region="region0" style="style5"><span style="style6">うちも お金 持ってるねん</span></p>
+<p xml:id="subtitle108" begin="6671247917t" end="6692102084t" region="region0" style="style5"><span style="style6">-（節子）これ開けて</span><br/><span style="style6">-（清太）ん？</span></p>
+<p xml:id="subtitle109" begin="6704197500t" end="6720046667t" region="region0" style="style5"><span style="style6">よし はい</span></p>
+<p xml:id="subtitle110" begin="6806382917t" end="6822232084t" region="region0" style="style5"><span style="style6">節子は金持ちやなぁ</span></p>
+<p xml:id="subtitle111" begin="6823066250t" end="6834744584t" region="region0" style="style5"><span style="style6">フフッ</span></p>
+<p xml:id="subtitle112" begin="6899392500t" end="6911070834t" region="region0" style="style5"><span style="style6">（２人）あ…</span></p>
+<p xml:id="subtitle113" begin="6911905000t" end="6941100834t" region="region0" style="style5"><span style="style6">これが空襲のあとで降るいうやつか</span></p>
+<p xml:id="subtitle114" begin="7092919167t" end="7103763334t" region="region0" style="style5"><span style="style6">あっ…</span></p>
+<p xml:id="subtitle115" begin="7120029584t" end="7132125000t" region="region0" style="style5"><span style="style6">ああ…</span></p>
+<p xml:id="subtitle116" begin="7163406250t" end="7186345834t" region="region0" style="style5"><span style="style6">-（遠くの爆発音）</span><br/><span style="style6">-（節子）キャ…</span></p>
+<p xml:id="subtitle117" begin="7320646667t" end="7350676667t" region="region0" style="style5"><span style="style6">（清太）えらい</span><br/><span style="style6">きれいさっぱりしてしもたなぁ</span></p>
+<p xml:id="subtitle118" begin="7365274584t" end="7391133750t" region="region0" style="style5"><span style="style6">見てみ　あれ公会堂や</span></p>
+<p xml:id="subtitle119" begin="7401143750t" end="7424917500t" region="region0" style="style5"><span style="style6">兄ちゃんと</span><br/><span style="style6">雑炊 食べに行ったやろ</span></p>
+<p xml:id="subtitle120" begin="7452027917t" end="7474967500t" region="region0" style="style5"><span style="style6">おうち焼けてしもたん？</span></p>
+<p xml:id="subtitle121" begin="7475801667t" end="7492485000t" region="region0" style="style5"><span style="style6">そうらしいわ</span></p>
+<p xml:id="subtitle122" begin="7493319167t" end="7507917084t" region="region0" style="style5"><span style="style6">どないすんの？</span></p>
+<p xml:id="subtitle123" begin="7522932084t" end="7543786250t" region="region0" style="style5"><span style="style6">お父ちゃん　</span><span style="style8"><span style="style9">敵 </span><span style="style10">かたき</span></span><span style="style6">取ってくれるて</span></p>
+<p xml:id="subtitle124" begin="7696855834t" end="7722715000t" region="region0" style="style5"><span style="style6">（女性）お母ちゃん　お母ちゃん！</span></p>
+<p xml:id="subtitle125" begin="7723549167t" end="7739815417t" region="region0" style="style5"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle126" begin="7816141667t" end="7851176667t" region="region0" style="style5"><span style="style6">（男性）うちだけが焼けなんだら</span><br/><span style="style6">そらもう肩身が狭いやろなあ</span></p>
+<p xml:id="subtitle127" begin="7852010834t" end="7878704167t" region="region0" style="style5"><span style="style6">ハハハ… 焼けてさっぱりしたわ</span></p>
+<p xml:id="subtitle128" begin="7879538334t" end="7927085834t" region="region0" style="style5"><span style="style6">（女性）</span><span style="style8"><span style="style9">三浦</span><span style="style10">みうら</span></span><span style="style6">さん 直撃 食ろうてな</span><br/><span style="style6">ほんま かわいそやったわ</span></p>
+<p xml:id="subtitle129" begin="7927920000t" end="7955864584t" region="region0" style="style5"><span style="style6">（男性）</span><br/><span style="style6">まあ 無事で何よりやったなぁ</span></p>
+<p xml:id="subtitle130" begin="7974216250t" end="7997155834t" region="region0" style="style5"><span style="style6">（少年）直撃２発 落ちよってん</span></p>
+<p xml:id="subtitle131" begin="7997990000t" end="8028437084t" region="region0" style="style5"><span style="style8"><span style="style9">莚 </span><span style="style10">むしろ</span></span><span style="style6">かぶせて ほったろか思てもな</span><br/><span style="style6">油脂こぼれるやろ</span></p>
+<p xml:id="subtitle132" begin="8029271250t" end="8048874167t" region="region0" style="style5"><span style="style6">どうないも こないも ならへんわ</span></p>
+<p xml:id="subtitle133" begin="8054713334t" end="8080989584t" region="region0" style="style5"><span style="style6">（男性）</span><br/><span style="style6">違うわ　おばちゃんやないわ</span></p>
+<p xml:id="subtitle134" begin="8114773334t" end="8132290834t" region="region0" style="style5"><span style="style6">兄ちゃん　おしっこ</span></p>
+<p xml:id="subtitle135" begin="8141466667t" end="8149808334t" region="region0" style="style5"><span style="style6">よっしゃ</span></p>
+<p xml:id="subtitle136" begin="8254079167t" end="8304129167t" region="region0" style="style5"><span style="style6">（男性：大声で）</span><br/><span style="style8"><span style="style9">上中</span><span style="style10">かみなか</span></span><span style="style6">　</span><span style="style8"><span style="style9">上西</span><span style="style10">かみにし</span></span><span style="style6">　</span><span style="style8"><span style="style9">一里塚</span><span style="style10">いちりづか</span></span><span style="style6">の皆さーん</span></p>
+<p xml:id="subtitle137" begin="8304963334t" end="8342917917t" region="region0" style="style5"><span style="style6">国民学校へ集合してくださーい</span></p>
+<p xml:id="subtitle138" begin="8343752084t" end="8362103750t" region="region0" style="style5"><span style="style6">救護所がありまーす</span></p>
+<p xml:id="subtitle139" begin="8362937917t" end="8372947917t" region="region0" style="style5"><span style="style6">どないした？</span></p>
+<p xml:id="subtitle140" begin="8373782084t" end="8390048334t" region="region0" style="style5"><span style="style6">（節子）目 痛いねん</span></p>
+<p xml:id="subtitle141" begin="8390882500t" end="8403395000t" region="region0" style="style5"><span style="style6">こすったらあかん</span></p>
+<p xml:id="subtitle142" begin="8419244167t" end="8440932500t" region="region0" style="style5"><span style="style6">学校 行ったら</span><span style="style8"><span style="style9">洗</span><span style="style10">あろ</span></span><span style="style6">てくれるよ</span></p>
+<p xml:id="subtitle143" begin="8441766667t" end="8467625834t" region="region0" style="style5"><span style="style6">お母ちゃん どないしたん？</span></p>
+<p xml:id="subtitle144" begin="8468460000t" end="8477218750t" region="region0" style="style5"><span style="style6">学校におるわ</span></p>
+<p xml:id="subtitle145" begin="8478052917t" end="8488897084t" region="region0" style="style5"><span style="style6">ガッコ？</span></p>
+<p xml:id="subtitle146" begin="8489731250t" end="8512253750t" region="region0" style="style5"><span style="style6">-（清太）そや　はよ行こ</span><br/><span style="style6">-（節子）うん</span></p>
+<p xml:id="subtitle147" begin="8556464584t" end="8581906667t" region="region0" style="style5"><span style="style6">（女性）泣いたらいかんよ</span><br/><span style="style6">お利口さんやからね</span></p>
+<p xml:id="subtitle148" begin="8582740834t" end="8595670417t" region="region0" style="style5"><span style="style6">はい あっち行こう</span></p>
+<p xml:id="subtitle149" begin="8671996667t" end="8694936250t" region="region0" style="style5"><span style="style6">（向かい家の女性）あっ 清太さん</span></p>
+<p xml:id="subtitle150" begin="8721629584t" end="8743317917t" region="region0" style="style5"><span style="style6">清太さん　お母さんに会いはった？</span></p>
+<p xml:id="subtitle151" begin="8744152084t" end="8769594167t" region="region0" style="style5"><span style="style6">ケガしはったのよ</span><br/><span style="style6">はよ行ったげな</span></p>
+<p xml:id="subtitle152" begin="8779604167t" end="8792533750t" region="region0" style="style5"><span style="style6">うち 見てたげる</span></p>
+<p xml:id="subtitle153" begin="8800458334t" end="8822146667t" region="region0" style="style5"><span style="style6">怖かったねえ 節ちゃん</span><br/><span style="style6">泣かんかった？</span></p>
+<p xml:id="subtitle154" begin="8822980834t" end="8831322500t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle155" begin="8842583750t" end="8863020834t" region="region0" style="style5"><span style="style6">お兄ちゃん ご用があるから</span><br/><span style="style6">ちょっと待っとろうね</span></p>
+<p xml:id="subtitle156" begin="8842583750t" end="8863020834t" region="region1" style="style7"><span style="style6">（走り去る足音）</span></p>
+<p xml:id="subtitle157" begin="8863020834t" end="8873865000t" region="region0" style="style5"><span style="style6">お兄ちゃん ご用があるから</span><br/><span style="style6">ちょっと待っとろうね</span></p>
+<p xml:id="subtitle158" begin="8908482917t" end="8950191250t" region="region0" style="style5"><span style="style6">（男性のうめき声）</span></p>
+<p xml:id="subtitle159" begin="8957698750t" end="8981472500t" region="region0" style="style5"><span style="style6">（</span><span style="style8"><span style="style9">大林</span><span style="style10">おおばやし</span></span><span style="style6">）</span><br/><span style="style6">ああ 清太君　捜してたんや</span></p>
+<p xml:id="subtitle160" begin="8982306667t" end="8993150834t" region="region0" style="style5"><span style="style6">元気やった？</span></p>
+<p xml:id="subtitle161" begin="8993985000t" end="9014005000t" region="region0" style="style5"><span style="style6">-（清太）お母ちゃんは？</span><br/><span style="style6">-（大林）こっちや</span></p>
+<p xml:id="subtitle162" begin="9038195834t" end="9047788750t" region="region0" style="style5"><span style="style6">あっ…</span></p>
+<p xml:id="subtitle163" begin="9056547500t" end="9071562500t" region="region0" style="style5"><span style="style6">（物音）</span></p>
+<p xml:id="subtitle164" begin="9096170417t" end="9112853750t" region="region0" style="style5"><span style="style6">これ お母さんのや</span></p>
+<p xml:id="subtitle165" begin="9113687917t" end="9123280834t" region="region0" style="style5"><span style="style6">ええっ</span></p>
+<p xml:id="subtitle166" begin="9131622500t" end="9154562084t" region="region0" style="style5"><span style="style6">（人々の泣き声とうめき声）</span></p>
+<p xml:id="subtitle167" begin="9155396250t" end="9167908750t" region="region0" style="style5"><span style="style6">こっちこっち</span></p>
+<p xml:id="subtitle168" begin="9195853334t" end="9234642084t" region="region0" style="style5"><span style="style6">（不規則な口呼吸）</span></p>
+<p xml:id="subtitle169" begin="9288445834t" end="9305546250t" region="region0" style="style5"><span style="style6">今 ようやく寝はったんや</span></p>
+<p xml:id="subtitle170" begin="9344335000t" end="9376867500t" region="region0" style="style5"><span style="style6">どっか病院あったら</span><br/><span style="style6">入れたほうがええねんけどな</span></p>
+<p xml:id="subtitle171" begin="9377701667t" end="9393967917t" region="region0" style="style5"><span style="style6">聞いてもろてるねん</span></p>
+<p xml:id="subtitle172" begin="9405229167t" end="9440681250t" region="region0" style="style5"><span style="style8"><span style="style9">西宮</span><span style="style10">にしのみや</span></span><span style="style6">の</span><span style="style8"><span style="style9">回生</span><span style="style10">かいせい</span></span><span style="style6">病院は</span><br/><span style="style6">焼けんかったらしいけどな</span></p>
+<p xml:id="subtitle173" begin="9452776667t" end="9461118334t" region="region0" style="style5"><span style="style6">あの…</span></p>
+<p xml:id="subtitle174" begin="9466123334t" end="9504077917t" region="region0" style="style5"><span style="style6">お母ちゃん 心臓 悪いんですけど</span><br/><span style="style6">その薬 もらえませんか？</span></p>
+<p xml:id="subtitle175" begin="9504912084t" end="9523263750t" region="region0" style="style5"><span style="style6">ああ　聞いてみような</span></p>
+<p xml:id="subtitle176" begin="9557047500t" end="9573730834t" region="region0" style="style5"><span style="style6">ほな また来るから</span></p>
+<p xml:id="subtitle177" begin="9634207917t" end="9646720417t" region="region0" style="style5"><span style="style6">（清太）お母ちゃん</span></p>
+<p xml:id="subtitle178" begin="9647554584t" end="9682172500t" region="region0" style="style5"><span style="style6">（不規則な口呼吸）</span></p>
+<p xml:id="subtitle179" begin="9800624167t" end="9821061250t" region="region0" style="style5"><span style="style6">（近づく足音）</span></p>
+<p xml:id="subtitle180" begin="9821895417t" end="9831071250t" region="region0" style="style5"><span style="style6">あっ</span></p>
+<p xml:id="subtitle181" begin="9861935417t" end="9872779584t" region="region0" style="style5"><span style="style6">分かった？</span></p>
+<p xml:id="subtitle182" begin="9873613750t" end="9884040834t" region="region0" style="style5"><span style="style6">（清太）はあ</span></p>
+<p xml:id="subtitle183" begin="9884875000t" end="9899472917t" region="region0" style="style5"><span style="style6">お気の毒やねえ</span></p>
+<p xml:id="subtitle184" begin="9909065834t" end="9924080834t" region="region0" style="style5"><span style="style6">のど乾いた</span></p>
+<p xml:id="subtitle185" begin="9975799167t" end="10003326667t" region="region0" style="style5"><span style="style6">何かできることあったら</span><br/><span style="style6">言うてちょうだい</span></p>
+<p xml:id="subtitle186" begin="10029185834t" end="10049205834t" region="region0" style="style5"><span style="style6">そや　乾パン もう もろた？</span></p>
+<p xml:id="subtitle187" begin="10057964584t" end="10073396667t" region="region0" style="style5"><span style="style6">ほな 取ってきたげるわ</span></p>
+<p xml:id="subtitle188" begin="10074230834t" end="10094667917t" region="region0" style="style5"><span style="style6">（走り去る足音）</span></p>
+<p xml:id="subtitle189" begin="10185592084t" end="10203943750t" region="region0" style="style5"><span style="style6">この指輪 財布へなおしとき</span></p>
+<p xml:id="subtitle190" begin="10210617084t" end="10223546667t" region="region0" style="style5"><span style="style6">なくしたら あかんで</span></p>
+<p xml:id="subtitle191" begin="10235642084t" end="10257330417t" region="region0" style="style5"><span style="style6">お母ちゃん ちょっと</span><br/><span style="style6">キイキ悪いねん</span></p>
+<p xml:id="subtitle192" begin="10258164584t" end="10273596667t" region="region0" style="style5"><span style="style6">じき ようなるよってな</span></p>
+<p xml:id="subtitle193" begin="10287777500t" end="10299455834t" region="region0" style="style5"><span style="style6">どこにおるのん？</span></p>
+<p xml:id="subtitle194" begin="10307797500t" end="10322812500t" region="region0" style="style5"><span style="style6">病院や 西宮のな</span></p>
+<p xml:id="subtitle195" begin="10361184167t" end="10389128750t" region="region0" style="style5"><span style="style6">そやから 今日は</span><br/><span style="style6">学校へ兄ちゃんと泊まって</span></p>
+<p xml:id="subtitle196" begin="10396636250t" end="10421661250t" region="region0" style="style5"><span style="style6">あした 西宮のおばちゃん</span><br/><span style="style6">知ってるやろ</span></p>
+<p xml:id="subtitle197" begin="10428334584t" end="10453776667t" region="region0" style="style5"><span style="style6">池のそばの　あすこへ行こ</span></p>
+<p xml:id="subtitle198" begin="10474213750t" end="10483389584t" region="region0" style="style5"><span style="style6">なっ</span></p>
+<p xml:id="subtitle199" begin="10590580000t" end="10626032084t" region="region0" style="style5"><span style="style6">うちら２階の教室やねん</span><br/><span style="style6">みんな いてるから</span><span style="style8"><span style="style9">来</span><span style="style10">け</span></span><span style="style6">えへん？</span></p>
+<p xml:id="subtitle200" begin="10663152500t" end="10689011667t" region="region0" style="style5"><span style="style6">すみません</span><br/><span style="style6">僕ら あとで行きますさかい</span></p>
+<p xml:id="subtitle201" begin="10697353334t" end="10718624584t" region="region0" style="style5"><span style="style6">ほな あとでな 節ちゃん</span></p>
+<p xml:id="subtitle202" begin="10745735000t" end="10754493750t" region="region0" style="style5"><span style="style6">食べるか？</span></p>
+<p xml:id="subtitle203" begin="10767006250t" end="10788277500t" region="region0" style="style5"><span style="style6">お母ちゃんとこ行きたい</span></p>
+<p xml:id="subtitle204" begin="10807046250t" end="10827483334t" region="region0" style="style5"><span style="style6">あしたならな　もう遅いやろ</span></p>
+<p xml:id="subtitle205" begin="10941764167t" end="10981804167t" region="region0" style="style5"><span style="style6">（すすり泣き）</span></p>
+<p xml:id="subtitle206" begin="11145717917t" end="11169908750t" region="region0" style="style5"><span style="style6">（続くすすり泣き）</span></p>
+<p xml:id="subtitle207" begin="11243315417t" end="11278767500t" region="region0" style="style5"><span style="style6">（節子の泣き声）</span></p>
+<p xml:id="subtitle208" begin="11358847500t" end="11380118750t" region="region0" style="style5"><span style="style6">（清太）</span><br/><span style="style6">見てみ　兄ちゃん うまいで！</span></p>
+<p xml:id="subtitle209" begin="11631202917t" end="11664569584t" region="region0" style="style5"><span style="style6">（大林）包帯は取れないな</span><br/><span style="style6">見ないほうがいいよ 遺体は</span></p>
+<p xml:id="subtitle210" begin="11665403750t" end="11681670000t" region="region0" style="style5"><span style="style6">なんせ この陽気ではなぁ…</span></p>
+<p xml:id="subtitle211" begin="11682504167t" end="11701690000t" region="region0" style="style5"><span style="style6">今日からでもトラックで運ばな</span></p>
+<p xml:id="subtitle212" begin="11872694167t" end="11895216667t" region="region0" style="style0"><span style="style1">（大林）</span>妹さん どないしたんや</p>
+<p xml:id="subtitle213" begin="11896050834t" end="11926080834t" region="region0" style="style0"><span style="style1">（清太）</span>西宮の遠い親戚に<br/>今朝 預けてきました</p>
+<p xml:id="subtitle214" begin="11931085834t" end="11957362084t" region="region0" style="style0">焼け出されたら置いてもらうことに<br/>なっとったから</p>
+<p xml:id="subtitle215" begin="11958196250t" end="11982804167t" region="region0" style="style0"><span style="style1">（大林）</span>そうか　そりゃよかった</p>
+<p xml:id="subtitle216" begin="11983638334t" end="12007829167t" region="region0" style="style0">ほな 私は任務があるさかい これで</p>
+<p xml:id="subtitle217" begin="12013668334t" end="12023261250t" region="region0" style="style0">元気でな</p>
+<p xml:id="subtitle218" begin="12903724167t" end="12915402500t" region="region0" style="style5"><span style="style6">お母ちゃん！</span></p>
+<p xml:id="subtitle219" begin="12925412500t" end="12940844584t" region="region0" style="style5"><span style="style6">お母ちゃんは？</span></p>
+<p xml:id="subtitle220" begin="12949603334t" end="12977965000t" region="region0" style="style5"><span style="style6">お母ちゃん まだキイキ痛いのん？</span></p>
+<p xml:id="subtitle221" begin="12978799167t" end="12999236250t" region="region0" style="style5"><span style="style6">うん　空襲でケガしはってん</span></p>
+<p xml:id="subtitle222" begin="13000070417t" end="13017170834t" region="region0" style="style5"><span style="style6">（おばさん）おかえり</span></p>
+<p xml:id="subtitle223" begin="13040527500t" end="13067220834t" region="region0" style="style5"><span style="style6">お母さん どないやった？</span><br/><span style="style6">回生病院？</span></p>
+<p xml:id="subtitle224" begin="13073060000t" end="13087240834t" region="region0" style="style5"><span style="style6">は… はあ</span></p>
+<p xml:id="subtitle225" begin="13098502084t" end="13117270834t" region="region0" style="style5"><span style="style6">海軍さんはええわ</span></p>
+<p xml:id="subtitle226" begin="13118105000t" end="13144381250t" region="region0" style="style5"><span style="style6">疎開荷物かて</span><br/><span style="style6">トラック</span><span style="style8"><span style="style9">使</span><span style="style10">つこ</span></span><span style="style6">て運ぶんから</span></p>
+<p xml:id="subtitle227" begin="13161481667t" end="13191511667t" region="region0" style="style5"><span style="style6">あと 蚊帳と布団は</span><br/><span style="style6">三畳に出してあるさかいな</span></p>
+<p xml:id="subtitle228" begin="13198185000t" end="13208195000t" region="region0" style="style5"><span style="style6">すみません</span></p>
+<p xml:id="subtitle229" begin="13295782500t" end="13326646667t" region="region0" style="style5"><span style="style6">お母ちゃん</span><br/><span style="style6">もう指輪せえへんのかな</span></p>
+<p xml:id="subtitle230" begin="13337073750t" end="13364601250t" region="region0" style="style5"><span style="style6">節子にくれはったんやろか</span></p>
+<p xml:id="subtitle231" begin="13422158750t" end="13443847084t" region="region0" style="style5"><span style="style6">それ 大事なんやから しもうとき</span></p>
+<p xml:id="subtitle232" begin="13514751250t" end="13525595417t" region="region0" style="style5"><span style="style6">お母ちゃんな…</span></p>
+<p xml:id="subtitle233" begin="13545198334t" end="13569389167t" region="region0" style="style5"><span style="style6">お母ちゃん</span><br/><span style="style6">もうちょっと ようなったら</span></p>
+<p xml:id="subtitle234" begin="13570223334t" end="13586489584t" region="region0" style="style5"><span style="style6">一緒に見舞いに行こうな</span></p>
+<p xml:id="subtitle235" begin="13587323750t" end="13595665417t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle236" begin="13604424167t" end="13618187917t" region="region0" style="style5"><span style="style6">もう遅いから お休み</span></p>
+<p xml:id="subtitle237" begin="13619022084t" end="13628197917t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle238" begin="13968537917t" end="13977296667t" region="region0" style="style5"><span style="style6">んっ</span></p>
+<p xml:id="subtitle239" begin="14012331667t" end="14022341667t" region="region0" style="style5"><span style="style6">ん？</span></p>
+<p xml:id="subtitle240" begin="14220456250t" end="14242561667t" region="region0" style="style5"><span style="style6">（飲む音）</span></p>
+<p xml:id="subtitle241" begin="14294280000t" end="14305124167t" region="region0" style="style5"><span style="style6">ハア～！</span></p>
+<p xml:id="subtitle242" begin="14315134167t" end="14324727084t" region="region0" style="style5"><span style="style6">フウ</span></p>
+<p xml:id="subtitle243" begin="14426912500t" end="14435254167t" region="region0" style="style5"><span style="style6">ん？</span></p>
+<p xml:id="subtitle244" begin="14597082500t" end="14620439167t" region="region0" style="style5"><span style="style6">んん～っ！</span></p>
+<p xml:id="subtitle245" begin="14763081667t" end="14790609167t" region="region0" style="style5"><span style="style6">（おばさん）</span><br/><span style="style6">はあ～ ニシンにカツオ節</span></p>
+<p xml:id="subtitle246" begin="14791443334t" end="14829815000t" region="region0" style="style5"><span style="style6">干し芋に卵 それに梅干し</span></p>
+<p xml:id="subtitle247" begin="14838156667t" end="14864432917t" region="region0" style="style5"><span style="style6">いや～ これバターやないの</span></p>
+<p xml:id="subtitle248" begin="14896548334t" end="14923241667t" region="region0" style="style5"><span style="style6">非常時いうても</span><br/><span style="style6">あるとこには あるもんや</span></p>
+<p xml:id="subtitle249" begin="14931166250t" end="14951186250t" region="region0" style="style5"><span style="style6">軍人さんばっかり</span><span style="style8"><span style="style9">贅沢</span><span style="style10">ぜいたく</span></span><span style="style6">して</span></p>
+<p xml:id="subtitle250" begin="14963281667t" end="14990809167t" region="region0" style="style5"><span style="style6">それで清太さん</span><br/><span style="style6">病院へ寄ってきはった？</span></p>
+<p xml:id="subtitle251" begin="14999567917t" end="15036688334t" region="region0" style="style5"><span style="style6">先のことも相談せんならんし</span><br/><span style="style6">節ちゃん連れて いっぺん⸺</span></p>
+<p xml:id="subtitle252" begin="15037522500t" end="15064215834t" region="region0" style="style5"><span style="style6">お見舞いに行ってこんならん</span><br/><span style="style6">思とるんやけど</span></p>
+<p xml:id="subtitle253" begin="15086738334t" end="15098416667t" region="region0" style="style5"><span style="style6">あかんかったんか？</span></p>
+<p xml:id="subtitle254" begin="15104255834t" end="15135120000t" region="region0" style="style5"><span style="style6">お母ちゃん</span><br/><span style="style6">学校で死んだんです おとつい</span></p>
+<p xml:id="subtitle255" begin="15135954167t" end="15159727917t" region="region0" style="style5"><span style="style6">（おばさん）</span><br/><span style="style6">なんやて　死にはった？</span></p>
+<p xml:id="subtitle256" begin="15185170000t" end="15221873334t" region="region0" style="style5"><span style="style6">そんなら そうと なんですぐに</span><br/><span style="style6">言うてくれはらへんかったん</span></p>
+<p xml:id="subtitle257" begin="15222707500t" end="15240225000t" region="region0" style="style5"><span style="style6">水くさい子やなぁ</span></p>
+<p xml:id="subtitle258" begin="15246898334t" end="15268586667t" region="region0" style="style5"><span style="style6">節子に知られとうなかったんです</span></p>
+<p xml:id="subtitle259" begin="15286521250t" end="15303204584t" region="region0" style="style5"><span style="style6">死にはったんか…</span></p>
+<p xml:id="subtitle260" begin="15316968334t" end="15328229584t" region="region0" style="style5"><span style="style6">えらいこっちゃ</span></p>
+<p xml:id="subtitle261" begin="15338239584t" end="15364932917t" region="region0" style="style5"><span style="style6">すぐ お父さんに</span><br/><span style="style6">手紙 書いて知らせんと</span></p>
+<p xml:id="subtitle262" begin="15379530834t" end="15421656250t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle263" begin="15422490417t" end="15438339584t" region="region0" style="style5"><span style="style6">あっ 兄ちゃん！</span></p>
+<p xml:id="subtitle264" begin="15448766667t" end="15474208750t" region="region0" style="style5"><span style="style6">お姉ちゃんに下駄 </span><span style="style8"><span style="style9">買</span><span style="style10">こ</span></span><span style="style6">うてもろた</span></p>
+<p xml:id="subtitle265" begin="15475042917t" end="15496731250t" region="region0" style="style5"><span style="style6">（笑い声）</span></p>
+<p xml:id="subtitle266" begin="15502570417t" end="15516334167t" region="region0" style="style5"><span style="style6">よかったな 節子</span></p>
+<p xml:id="subtitle267" begin="15517168334t" end="15535937084t" region="region0" style="style5"><span style="style6">（おばさんの娘）おかえりなさい</span></p>
+<p xml:id="subtitle268" begin="15555540000t" end="15587655417t" region="region0" style="style5"><span style="style6">（清太と節子の笑い声）</span></p>
+<p xml:id="subtitle269" begin="15596831250t" end="15607258334t" region="region1" style="style7"><span style="style6">（清太）よーし</span></p>
+<p xml:id="subtitle270" begin="15614765834t" end="15638956667t" region="region1" style="style7"><span style="style6">（節子）あっ フフッ</span></p>
+<p xml:id="subtitle271" begin="15647715417t" end="15659810834t" region="region1" style="style7"><span style="style6">フフフッ</span></p>
+<p xml:id="subtitle272" begin="15670237917t" end="15681082084t" region="region1" style="style7"><span style="style6">（清太）よいしょ</span></p>
+<p xml:id="subtitle273" begin="15681916250t" end="15707775417t" region="region1" style="style7"><span style="style6">-（節子）キャー あーあ</span><br/><span style="style6">-（清太）ハハハ…</span></p>
+<p xml:id="subtitle274" begin="15708609584t" end="15741559167t" region="region0" style="style5"><span style="style6">-（引き戸が開く音）</span><br/><span style="style6">-（女性）大変やねえ あんたらも</span></p>
+<p xml:id="subtitle275" begin="15742393334t" end="15762413334t" region="region0" style="style5"><span style="style6">-（清太）ありがとうございました</span><br/><span style="style6">-（引き戸が閉まる音）</span></p>
+<p xml:id="subtitle276" begin="15763247500t" end="15792860417t" region="region0" style="style5"><span style="style6">（カエルの鳴き声）</span></p>
+<p xml:id="subtitle277" begin="15793694584t" end="15814131667t" region="region0" style="style5"><span style="style6">何なん？　あの音</span></p>
+<p xml:id="subtitle278" begin="15820387917t" end="15848332500t" region="region0" style="style5"><span style="style6">ああ 食用ガエルや</span><br/><span style="style6">怖いことあれへん</span></p>
+<p xml:id="subtitle279" begin="15854171667t" end="15867935417t" region="region0" style="style5"><span style="style6">（節子）あっ 蛍！</span></p>
+<p xml:id="subtitle280" begin="15931749167t" end="15940507917t" region="region0" style="style5"><span style="style6">あっ！</span></p>
+<p xml:id="subtitle281" begin="15949683750t" end="15963030417t" region="region0" style="style5"><span style="style6">ほら つかまえてみ</span></p>
+<p xml:id="subtitle282" begin="15963864584t" end="15973040417t" region="region0" style="style5"><span style="style6">わあ！</span></p>
+<p xml:id="subtitle283" begin="16003070417t" end="16019336667t" region="region0" style="style5"><span style="style6">えっ？　ああ！</span></p>
+<p xml:id="subtitle284" begin="16020170834t" end="16043110417t" region="region0" style="style5"><span style="style6">あーあ　潰れてしもた</span></p>
+<p xml:id="subtitle285" begin="16043944584t" end="16061462084t" region="region0" style="style5"><span style="style6">なんや 変なにおい</span></p>
+<p xml:id="subtitle286" begin="16062296250t" end="16086070000t" region="region0" style="style5"><span style="style6">アハハハ　ぎゅっと握るからや</span></p>
+<p xml:id="subtitle287" begin="16171572084t" end="16181999167t" region="region0" style="style5"><span style="style6">あっ</span></p>
+<p xml:id="subtitle288" begin="16286270000t" end="16299616667t" region="region0" style="style5"><span style="style6">（節子）うわ～！</span></p>
+<p xml:id="subtitle289" begin="16300450834t" end="16328395417t" region="region0" style="style5"><span style="style6">（笑い声）</span></p>
+<p xml:id="subtitle290" begin="16372189167t" end="16396797084t" region="region0" style="style5"><span style="style6">（清太）</span><br/><span style="style6">ぎょうさん おるなあ 蛍が</span></p>
+<p xml:id="subtitle291" begin="16533600417t" end="16561545000t" region="region0" style="style5"><span style="style6">せや 節子</span><br/><span style="style6">目ぇ つむって あーんしてみ</span></p>
+<p xml:id="subtitle292" begin="16562379167t" end="16575725834t" region="region0" style="style5"><span style="style6">なんでや？</span></p>
+<p xml:id="subtitle293" begin="16576560000t" end="16596162917t" region="region0" style="style5"><span style="style6">なんでもええから あーん</span></p>
+<p xml:id="subtitle294" begin="16622439167t" end="16633700417t" region="region0" style="style5"><span style="style6">あーん</span></p>
+<p xml:id="subtitle295" begin="16715865834t" end="16727127084t" region="region0" style="style5"><span style="style6">ロオップ！</span></p>
+<p xml:id="subtitle296" begin="16727961250t" end="16736302917t" region="region0" style="style5"><span style="style6">う～ん！</span></p>
+<p xml:id="subtitle297" begin="16737137084t" end="16799699584t" region="region0" style="style5"><span style="style6">ロオップ ロオップ ロオップ</span><br/><span style="style6">ロオップ ロオップ ロオップ</span></p>
+<p xml:id="subtitle298" begin="16800533750t" end="16821387917t" region="region0" style="style5"><span style="style6">ロオップ ロオップ ロオ…</span></p>
+<p xml:id="subtitle299" begin="16822222084t" end="16842242084t" region="region0" style="style5"><span style="style6">んっ… カハッ</span></p>
+<p xml:id="subtitle300" begin="16854754584t" end="16865181667t" region="region0" style="style5"><span style="style6">ハア～</span></p>
+<p xml:id="subtitle301" begin="16884367500t" end="16913146250t" region="region0" style="style5"><span style="style6">もうちょっとで</span><br/><span style="style6">のみ込んでしまうとこやった</span></p>
+<p xml:id="subtitle302" begin="16919819584t" end="16941507917t" region="region0" style="style5"><span style="style6">（笑い声）</span></p>
+<p xml:id="subtitle303" begin="16949849584t" end="16959442500t" region="region0" style="style5"><span style="style6">ウフフッ</span></p>
+<p xml:id="subtitle304" begin="17050783750t" end="17065381667t" region="region0" style="style5"><span style="style6">（引き戸が開く音）</span></p>
+<p xml:id="subtitle305" begin="17073306250t" end="17085401667t" region="region0" style="style5"><span style="style6">（清太）ただいま</span></p>
+<p xml:id="subtitle306" begin="17086235834t" end="17105421667t" region="region0" style="style5"><span style="style6">（おばさん）遅かったやないの</span></p>
+<p xml:id="subtitle307" begin="17132115000t" end="17156305834t" region="region0" style="style5"><span style="style6">おばさんに ちゃんと</span><br/><span style="style6">お礼 言うたやろな</span></p>
+<p xml:id="subtitle308" begin="17157140000t" end="17167150000t" region="region0" style="style5"><span style="style6">（清太）はい</span></p>
+<p xml:id="subtitle309" begin="17199682500t" end="17215531667t" region="region1" style="style7"><span style="style6">（小声で）うまそうやな</span></p>
+<p xml:id="subtitle310" begin="17479962500t" end="17490806667t" region="region0" style="style5"><span style="style6">（清太）あ…</span></p>
+<p xml:id="subtitle311" begin="17509992500t" end="17540856667t" region="region0" style="style5"><span style="style6">清太さん　あんた学校</span><br/><span style="style6">どないなっとるの？</span></p>
+<p xml:id="subtitle312" begin="17541690834t" end="17556288750t" region="region0" style="style5"><span style="style6">行かんでええの？</span></p>
+<p xml:id="subtitle313" begin="17557122917t" end="17566298750t" region="region0" style="style5"><span style="style6">はあ…</span></p>
+<p xml:id="subtitle314" begin="17567132917t" end="17605087500t" region="region0" style="style5"><span style="style6">動員 行っとった</span><span style="style8"><span style="style9">神戸</span><span style="style10">こうべ</span></span><span style="style6">製鋼は</span><br/><span style="style6">爆撃でメチャメチャやし</span></p>
+<p xml:id="subtitle315" begin="17605921667t" end="17636785834t" region="region0" style="style5"><span style="style6">学校も焼けてしもて…</span><br/><span style="style6">行ってもしょうがないんです</span></p>
+<p xml:id="subtitle316" begin="17643042084t" end="17656388750t" region="region0" style="style5"><span style="style6">へえ～</span></p>
+<p xml:id="subtitle317" begin="17657222917t" end="17681413750t" region="region0" style="style5"><span style="style6">お父さんには</span><br/><span style="style6">手紙 書いてくれたんやろな？</span></p>
+<p xml:id="subtitle318" begin="17682247917t" end="17702685000t" region="region0" style="style5"><span style="style6">出しました　</span><span style="style8"><span style="style9">呉鎮守府</span><span style="style10">くれちんじゅふ</span></span><span style="style6">気付で</span></p>
+<p xml:id="subtitle319" begin="17703519167t" end="17711860834t" region="region0" style="style5"><span style="style6">いつ？</span></p>
+<p xml:id="subtitle320" begin="17717700000t" end="17748981250t" region="region0" style="style5"><span style="style6">ここへ来て すぐですから</span><br/><span style="style6">もう10日以上も前です</span></p>
+<p xml:id="subtitle321" begin="17764830417t" end="17780262500t" region="region0" style="style5"><span style="style6">おかしいなあ…</span></p>
+<p xml:id="subtitle322" begin="17790689584t" end="17813212084t" region="region0" style="style5"><span style="style6">こっちへも まだ返事が来んのや</span></p>
+<p xml:id="subtitle323" begin="17832397917t" end="17861176667t" region="region0" style="style5"><span style="style6">ハサミ </span><span style="style8"><span style="style9">使</span><span style="style10">つこ</span></span><span style="style6">たら</span><br/><span style="style6">返しとかなあかんよ 節ちゃん</span></p>
+<p xml:id="subtitle324" begin="17948764167t" end="17964613334t" region="region0" style="style5"><span style="style6">戦局は どないですの？</span></p>
+<p xml:id="subtitle325" begin="17970035417t" end="17992557917t" region="region0" style="style5"><span style="style6">（下宿人）</span><br/><span style="style6">ますます あかんらしいですわ</span></p>
+<p xml:id="subtitle326" begin="18002567917t" end="18041356667t" region="region0" style="style5"><span style="style6">空襲で焼けてしもた分だけ</span><br/><span style="style6">他の工場にしわ寄せが来ますやろ</span></p>
+<p xml:id="subtitle327" begin="18042190834t" end="18076391667t" region="region0" style="style5"><span style="style6">本土決戦に備えて</span><br/><span style="style6">増産に励めの一点張りですわ</span></p>
+<p xml:id="subtitle328" begin="18089321250t" end="18105587500t" region="region0" style="style5"><span style="style6">（おばさん）そうやろなぁ</span></p>
+<p xml:id="subtitle329" begin="18106421667t" end="18135200417t" region="region0" style="style5"><span style="style6">食料の配給かて</span><br/><span style="style6">悪うなるばっかりやし</span></p>
+<p xml:id="subtitle330" begin="18152300834t" end="18185250417t" region="region0" style="style5"><span style="style6">戦地の兵隊さんだけやのうて</span><br/><span style="style6">みんな大変ですなぁ</span></p>
+<p xml:id="subtitle331" begin="18209441250t" end="18241139584t" region="region0" style="style5"><span style="style6">こいさんも</span><br/><span style="style6">お国のための勤労動員やもん</span></p>
+<p xml:id="subtitle332" begin="18241973750t" end="18269918334t" region="region0" style="style5"><span style="style6">ようけ食べて 力つけてもらわんと</span></p>
+<p xml:id="subtitle333" begin="18332897917t" end="18355420417t" region="region0" style="style5"><span style="style6">（空襲警報のサイレン）</span></p>
+<p xml:id="subtitle334" begin="18356254584t" end="18364596250t" region="region0" style="style5"><span style="style6">またや</span></p>
+<p xml:id="subtitle335" begin="18369601250t" end="18397545834t" region="region0" style="style5"><span style="style6">（女性）あんたとこ</span><br/><span style="style6">２人も焼け出され抱えて</span></p>
+<p xml:id="subtitle336" begin="18398380000t" end="18414229167t" region="region0" style="style5"><span style="style6">大変やなあ</span></p>
+<p xml:id="subtitle337" begin="18415063334t" end="18458857084t" region="region0" style="style5"><span style="style6">（女性）そやけど</span><br/><span style="style6">まだ小さいのに かわいそうになあ</span></p>
+<p xml:id="subtitle338" begin="18465530417t" end="18484716250t" region="region0" style="style5"><span style="style6">どないした？</span><br/><span style="style6">あせも かゆいんか？</span></p>
+<p xml:id="subtitle339" begin="18485550417t" end="18495977500t" region="region0" style="style5"><span style="style6">暑い</span></p>
+<p xml:id="subtitle340" begin="18501816667t" end="18518500000t" region="region0" style="style5"><span style="style6">防空壕 イヤや</span></p>
+<p xml:id="subtitle341" begin="18519334167t" end="18532263750t" region="region0" style="style5"><span style="style6">我慢せな あかん</span></p>
+<p xml:id="subtitle342" begin="18533097917t" end="18552700834t" region="region0" style="style5"><span style="style6">兄ちゃんおるから </span><span style="style8"><span style="style9">怖</span><span style="style10">こわ</span></span><span style="style6">ないやろ</span></p>
+<p xml:id="subtitle343" begin="18561459584t" end="18610675417t" region="region0" style="style5"><span style="style6">-（小鳥の鳴き声）</span><br/><span style="style6">-（ラジオから流れる音楽）</span></p>
+<p xml:id="subtitle344" begin="18664479167t" end="18675740417t" region="region0" style="style5"><span style="style6">海 行ってみよか</span></p>
+<p xml:id="subtitle345" begin="18676574584t" end="18712026667t" region="region0" style="style5"><span style="style6">うん　行こ行こ 海　フフフッ</span></p>
+<p xml:id="subtitle346" begin="18712860834t" end="18752066667t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle347" begin="18770001250t" end="18797111667t" region="region0" style="style5"><span style="style6">-（清太）よいしょ ハハッ</span><br/><span style="style6">-（節子）わあ ハハッ</span></p>
+<p xml:id="subtitle348" begin="18805036250t" end="18837151667t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle349" begin="18856337500t" end="18885116250t" region="region0" style="style5"><span style="style6">（清太）わあ～</span><br/><span style="style6">みんな畑になってしもとるわ</span></p>
+<p xml:id="subtitle350" begin="18924739167t" end="18937668750t" region="region0" style="style5"><span style="style6">ハハハッ</span></p>
+<p xml:id="subtitle351" begin="18938502917t" end="18948512917t" region="region0" style="style5"><span style="style6">あっ！</span></p>
+<p xml:id="subtitle352" begin="18961442500t" end="18978125834t" region="region0" style="style5"><span style="style6">（電車の警鐘）</span></p>
+<p xml:id="subtitle353" begin="19057788750t" end="19092823750t" region="region0" style="style5"><span style="style6">（カモメの鳴き声）</span></p>
+<p xml:id="subtitle354" begin="19318048750t" end="19330561250t" region="region0" style="style5"><span style="style6">うわ～</span></p>
+<p xml:id="subtitle355" begin="19346827500t" end="19361425417t" region="region0" style="style5"><span style="style6">-（清太）よっ！</span><br/><span style="style6">-（節子の笑い声）</span></p>
+<p xml:id="subtitle356" begin="19375606250t" end="19398545834t" region="region0" style="style5"><span style="style6">-（清太）ん～ よしっ！</span><br/><span style="style6">-（節子の笑い声）</span></p>
+<p xml:id="subtitle357" begin="19399380000t" end="19416480417t" region="region0" style="style5"><span style="style6">（清太）おおっ ハハッ</span></p>
+<p xml:id="subtitle358" begin="19417314584t" end="19439002917t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle359" begin="19447344584t" end="19457354584t" region="region0" style="style5"><span style="style6">ハア～</span></p>
+<p xml:id="subtitle360" begin="19470284167t" end="19485299167t" region="region0" style="style5"><span style="style6">何しとるん？</span></p>
+<p xml:id="subtitle361" begin="19494057917t" end="19506570417t" region="region0" style="style5"><span style="style6">潮水 くんどるんや</span></p>
+<p xml:id="subtitle362" begin="19512409584t" end="19538685834t" region="region0" style="style5"><span style="style6">塩も しょうゆも</span><br/><span style="style6">配給だけやと足りんのやて</span></p>
+<p xml:id="subtitle363" begin="19539520000t" end="19551615417t" region="region0" style="style5"><span style="style6">（節子）ふーん</span></p>
+<p xml:id="subtitle364" begin="19552449584t" end="19573720834t" region="region0" style="style5"><span style="style6">節子　はよ裸になり</span></p>
+<p xml:id="subtitle365" begin="19803116667t" end="19814377917t" region="region0" style="style5"><span style="style6">う～っ！</span></p>
+<p xml:id="subtitle366" begin="19866096250t" end="19884865000t" region="region0" style="style5"><span style="style6">ちょっと冷たいかもしれんな</span></p>
+<p xml:id="subtitle367" begin="19885699167t" end="19902799584t" region="region0" style="style5"><span style="style6">（節子）キャー 冷たい！</span></p>
+<p xml:id="subtitle368" begin="19903633750t" end="19913643750t" region="region0" style="style5"><span style="style6">ひゃっ！</span></p>
+<p xml:id="subtitle369" begin="19921568334t" end="19943256667t" region="region0" style="style5"><span style="style6">気持ちええやろ あせものとこ</span></p>
+<p xml:id="subtitle370" begin="19944090834t" end="19953683750t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle371" begin="19954517917t" end="19975789167t" region="region0" style="style5"><span style="style6">（笑い声）</span></p>
+<p xml:id="subtitle372" begin="20032512500t" end="20058371667t" region="region0" style="style5"><span style="style6">大きな お風呂や フフフッ</span></p>
+<p xml:id="subtitle373" begin="20059205834t" end="20069215834t" region="region0" style="style5"><span style="style6">コラー！</span></p>
+<p xml:id="subtitle374" begin="20084647917t" end="20105919167t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle375" begin="20106753334t" end="20167230417t" region="region0" style="style5"><span style="style6">ウオーッ！　待てえー！</span><br/><span style="style6">ウオーッ！　待てえー！</span></p>
+<p xml:id="subtitle376" begin="20176406250t" end="20187250417t" region="region0" style="style5"><span style="style6">待てえー！</span></p>
+<p xml:id="subtitle377" begin="20197260417t" end="20223536667t" region="region0" style="style5"><span style="style6">熊やどー！　食うてまうどー！</span></p>
+<p xml:id="subtitle378" begin="20224370834t" end="20236466250t" region="region0" style="style5"><span style="style6">ウオー！</span></p>
+<p xml:id="subtitle379" begin="20257320417t" end="20272752500t" region="region0" style="style5"><span style="style6">おおっ あっ！</span></p>
+<p xml:id="subtitle380" begin="20314877917t" end="20336149167t" region="region0" style="style5"><span style="style6">（なめる音）</span></p>
+<p xml:id="subtitle381" begin="20396626250t" end="20404967917t" region="region0" style="style5"><span style="style6">あっ！</span></p>
+<p xml:id="subtitle382" begin="20460440000t" end="20495892084t" region="region0" style="style5"><span style="style6">チョッキン チョッキン</span><br/><span style="style6">チョッキンナ！</span></p>
+<p xml:id="subtitle383" begin="20502982500t" end="20530927084t" region="region0" style="style5"><span style="style6">チョッキン チョッキン</span><br/><span style="style6">チョッキン…</span></p>
+<p xml:id="subtitle384" begin="20539268750t" end="20566379167t" region="region0" style="style5"><span style="style6">どないしたん？　寝てはるわ</span></p>
+<p xml:id="subtitle385" begin="20653966667t" end="20675655000t" region="region0" style="style5"><span style="style6">（清太）そんなん見んでもええよ</span></p>
+<p xml:id="subtitle386" begin="20707770417t" end="20736966250t" region="region0" style="style5"><span style="style6">もうちょっと</span><span style="style8"><span style="style9">暑</span><span style="style10">あつ</span></span><span style="style6">なったら泳げるわ</span><br/><span style="style6">教えたる</span></p>
+<p xml:id="subtitle387" begin="20761157084t" end="20782845417t" region="region0" style="style5"><span style="style6">泳いだら おなか減るやん！</span></p>
+<p xml:id="subtitle388" begin="20783679584t" end="20793272500t" region="region0" style="style5"><span style="style6">フフフッ</span></p>
+<p xml:id="subtitle389" begin="20799528750t" end="20832478334t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle390" begin="20833312500t" end="20858337500t" region="region0" style="style0"><span style="style1">（節子）</span>泳いだら おなか減るやん</p>
+<p xml:id="subtitle391" begin="20940085834t" end="20958437500t" region="region0" style="style0"><span style="style1">（母）</span>清太さーん</p>
+<p xml:id="subtitle392" begin="20959271667t" end="20994723750t" region="region0" style="style0">節ちゃーん　おいでー！</p>
+<p xml:id="subtitle393" begin="21048527500t" end="21076889167t" region="region0" style="style0">おなかすいたやろー</p>
+<p xml:id="subtitle394" begin="21077723334t" end="21109421667t" region="region0" style="style0">カルピスも冷えてるよー</p>
+<p xml:id="subtitle395" begin="21131110000t" end="21139451667t" region="region0" style="style5"><span style="style6">あっ…</span></p>
+<p xml:id="subtitle396" begin="21267079167t" end="21294606667t" region="region0" style="style5"><span style="style6">（空襲警報のサイレン）</span></p>
+<p xml:id="subtitle397" begin="21295440834t" end="21314626667t" region="region0" style="style5"><span style="style6">ハッ… あっ</span></p>
+<p xml:id="subtitle398" begin="21410555834t" end="21442671250t" region="region0" style="style5"><span style="style6">（看護師）</span><br/><span style="style6">いや お母ちゃん　待ちはった？</span></p>
+<p xml:id="subtitle399" begin="21443505417t" end="21466862084t" region="region0" style="style5"><span style="style6">いや ほんま</span><br/><span style="style6">よう来てくれはったわ</span></p>
+<p xml:id="subtitle400" begin="21467696250t" end="21494389584t" region="region0" style="style5"><span style="style6">（看護師の母）</span><br/><span style="style6">それで お前 元気やったんか？</span></p>
+<p xml:id="subtitle401" begin="21495223750t" end="21510655834t" region="region0" style="style5"><span style="style6">へえ　うちは元気や</span></p>
+<p xml:id="subtitle402" begin="21511490000t" end="21529007500t" region="region0" style="style5"><span style="style6">みんな ようしてくれはるし</span><br/><span style="style6">心配あらへん…</span></p>
+<p xml:id="subtitle403" begin="21529841667t" end="21548193334t" region="region0" style="style5"><span style="style6">（節子）おなかすいた</span></p>
+<p xml:id="subtitle404" begin="21565293750t" end="21593238334t" region="region0" style="style5"><span style="style6">（清太）さあ 立ち</span><br/><span style="style6">はよ帰らんと 空襲 来るで</span></p>
+<p xml:id="subtitle405" begin="21601997084t" end="21634946667t" region="region0" style="style5"><span style="style6">疲れたわ　兄ちゃん おんぶ</span></p>
+<p xml:id="subtitle406" begin="21641620000t" end="21650795834t" region="region0" style="style5"><span style="style6">（ため息）</span></p>
+<p xml:id="subtitle407" begin="21651630000t" end="21674986667t" region="region0" style="style5"><span style="style6">-（Ｂ29の飛行音）</span><br/><span style="style6">-（男性）退避ー！</span></p>
+<p xml:id="subtitle408" begin="21783011250t" end="21798443334t" region="region0" style="style5"><span style="style6">お母さんの着物な</span></p>
+<p xml:id="subtitle409" begin="21799277500t" end="21820131667t" region="region0" style="style5"><span style="style6">言うては悪いが</span><br/><span style="style6">もう用もないんやし</span></p>
+<p xml:id="subtitle410" begin="21820965834t" end="21840985834t" region="region0" style="style5"><span style="style6">お米に換えたら どう？</span></p>
+<p xml:id="subtitle411" begin="21847659167t" end="21894372500t" region="region0" style="style5"><span style="style6">おばさんも前から少しずつ</span><br/><span style="style6">物々交換して足し前してたんよ</span></p>
+<p xml:id="subtitle412" begin="21907719167t" end="21929407500t" region="region0" style="style5"><span style="style6">これで１</span><span style="style8"><span style="style9">斗</span><span style="style10">と</span></span><span style="style6">には なると思うよ</span></p>
+<p xml:id="subtitle413" begin="21936497917t" end="21946507917t" region="region0" style="style5"><span style="style6">イットォ？</span></p>
+<p xml:id="subtitle414" begin="21954432500t" end="21973201250t" region="region0" style="style5"><span style="style6">清太さんも栄養つけな</span></p>
+<p xml:id="subtitle415" begin="21978206250t" end="22001562917t" region="region0" style="style5"><span style="style6">体 丈夫にして</span><br/><span style="style6">兵隊さん行くねんやろ</span></p>
+<p xml:id="subtitle416" begin="22007819167t" end="22026587917t" region="region0" style="style5"><span style="style6">１斗になるんですか</span></p>
+<p xml:id="subtitle417" begin="22027422084t" end="22040351667t" region="region0" style="style5"><span style="style6">このまま置いとくより</span></p>
+<p xml:id="subtitle418" begin="22041185834t" end="22067045000t" region="region0" style="style5"><span style="style6">そのほうが きっと</span><br/><span style="style6">お母さんも喜びはるわ</span></p>
+<p xml:id="subtitle419" begin="22067879167t" end="22086647917t" region="region0" style="style5"><span style="style6">ほな ちょっと行ってくるさかい</span></p>
+<p xml:id="subtitle420" begin="22097492084t" end="22107919167t" region="region0" style="style5"><span style="style6">（節子）あかん！</span></p>
+<p xml:id="subtitle421" begin="22116260834t" end="22134195417t" region="region0" style="style5"><span style="style6">なんや 節ちゃん</span><br/><span style="style6">起きてたんかいな</span></p>
+<p xml:id="subtitle422" begin="22135029584t" end="22160054584t" region="region0" style="style5"><span style="style6">お母ちゃんのおべべ あかん</span></p>
+<p xml:id="subtitle423" begin="22160888750t" end="22183411250t" region="region0" style="style5"><span style="style6">お母ちゃんのおべべ あかん</span></p>
+<p xml:id="subtitle424" begin="22184245417t" end="22213858334t" region="region0" style="style5"><span style="style6">あかん あかん　お母ちゃんのや</span></p>
+<p xml:id="subtitle425" begin="22214692500t" end="22219697500t" region="region0" style="style5"><span style="style6">お母ちゃんのおべべ あかん</span><br/><span style="style6">あかん あかん！</span></p>
+<p xml:id="subtitle426" begin="22219697500t" end="22238466250t" region="region0" style="style5"><span style="style6">お母ちゃんのおべべ あかん</span><br/><span style="style6">あかん あかん！</span></p>
+<p xml:id="subtitle427" begin="22219697500t" end="22238466250t" region="region1" style="style7"><span style="style6">（清太）節子　放しや</span></p>
+<p xml:id="subtitle428" begin="22238466250t" end="22250144584t" region="region0" style="style5"><span style="style6">お母ちゃんのおべべ あかん</span><br/><span style="style6">あかん あかん！</span></p>
+<p xml:id="subtitle429" begin="22250978750t" end="22266827917t" region="region0" style="style5"><span style="style6">イヤや イヤや</span></p>
+<p xml:id="subtitle430" begin="22267662084t" end="22280591667t" region="region0" style="style5"><span style="style6">イヤや</span></p>
+<p xml:id="subtitle431" begin="22281425834t" end="22303114167t" region="region0" style="style5"><span style="style6">-（清太）節子！</span><br/><span style="style6">-（節子）イヤや イヤや イヤや</span></p>
+<p xml:id="subtitle432" begin="22303948334t" end="22323134167t" region="region0" style="style5"><span style="style6">-（清太）節子！</span><br/><span style="style6">-（節子）イヤや イヤや イヤや！</span></p>
+<p xml:id="subtitle433" begin="22323968334t" end="22345239584t" region="region0" style="style5"><span style="style6">-（清太）節子！</span><br/><span style="style6">-（節子の泣き声）</span></p>
+<p xml:id="subtitle434" begin="22346073750t" end="22357752084t" region="region0" style="style5"><span style="style6">（清太）節子！</span></p>
+<p xml:id="subtitle435" begin="22373184167t" end="22399460417t" region="region0" style="style5"><span style="style6">（節子）イヤや イヤや イヤやー！</span></p>
+<p xml:id="subtitle436" begin="22400294584t" end="22449927500t" region="region0" style="style5"><span style="style6">（節子の泣き声）</span></p>
+<p xml:id="subtitle437" begin="22533761250t" end="22546690834t" region="region0" style="style5"><span style="style6">（シャッター音）</span></p>
+<p xml:id="subtitle438" begin="22688082084t" end="22698509167t" region="region0" style="style5"><span style="style6">うわ～</span></p>
+<p xml:id="subtitle439" begin="22714775417t" end="22728122084t" region="region0" style="style5"><span style="style6">ええお米やろ</span></p>
+<p xml:id="subtitle440" begin="22743971250t" end="22777337917t" region="region0" style="style5"><span style="style6">晩は この白いごはん</span><br/><span style="style6">炊くさかいな 節ちゃん</span></p>
+<p xml:id="subtitle441" begin="22812372917t" end="22835729584t" region="region0" style="style5"><span style="style6">はい これは あんたら持っててや</span></p>
+<p xml:id="subtitle442" begin="22895789584t" end="22907467917t" region="region0" style="style5"><span style="style6">ハハッ</span></p>
+<p xml:id="subtitle443" begin="22914141250t" end="22931241667t" region="region0" style="style5"><span style="style6">白いごはんやで 節子</span></p>
+<p xml:id="subtitle444" begin="23017160834t" end="23027587917t" region="region0" style="style5"><span style="style6">ハハッ</span></p>
+<p xml:id="subtitle445" begin="23033010000t" end="23052612917t" region="region0" style="style5"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle446" begin="23053447084t" end="23065959584t" region="region0" style="style5"><span style="style6">（おばさん）はい</span></p>
+<p xml:id="subtitle447" begin="23073884167t" end="23100160417t" region="region0" style="style5"><span style="style6">こいさんも兄さんも残業やさかい</span></p>
+<p xml:id="subtitle448" begin="23100994584t" end="23134778334t" region="region0" style="style5"><span style="style6">せっかくの</span><span style="style8"><span style="style9">温</span><span style="style10">ぬく</span></span><span style="style6">いごはんが</span><br/><span style="style6">食べられんで気の毒やわぁ</span></p>
+<p xml:id="subtitle449" begin="23151878750t" end="23176069584t" region="region0" style="style5"><span style="style6">おいしいなぁ</span><br/><span style="style6">やっぱり白いごはんは</span></p>
+<p xml:id="subtitle450" begin="23215692500t" end="23224034167t" region="region0" style="style5"><span style="style6">お代わり！</span></p>
+<p xml:id="subtitle451" begin="23231541667t" end="23241968750t" region="region0" style="style5"><span style="style6">はいはい</span></p>
+<p xml:id="subtitle452" begin="23283260000t" end="23311204584t" region="region0" style="style5"><span style="style6">節ちゃん 白いごはんやと</span><br/><span style="style6">よう食べるなぁ</span></p>
+<p xml:id="subtitle453" begin="23312038750t" end="23329556250t" region="region0" style="style5"><span style="style6">うん！　好きやもん</span></p>
+<p xml:id="subtitle454" begin="23349576250t" end="23383777084t" region="region0" style="style5"><span style="style6">（鶏の鳴き声）</span></p>
+<p xml:id="subtitle455" begin="23384611250t" end="23396289584t" region="region0" style="style5"><span style="style6">どないした？</span></p>
+<p xml:id="subtitle456" begin="23401711667t" end="23420897500t" region="region0" style="style5"><span style="style6">雑炊 イヤや</span></p>
+<p xml:id="subtitle457" begin="23431324584t" end="23458852084t" region="region0" style="style5"><span style="style6">僕の持ってきた梅干し</span><br/><span style="style6">もうないんですか？</span></p>
+<p xml:id="subtitle458" begin="23465942500t" end="23491384584t" region="region0" style="style5"><span style="style6">そんなもん とうに</span><br/><span style="style6">のうなったやないの</span></p>
+<p xml:id="subtitle459" begin="23500560417t" end="23515158334t" region="region0" style="style5"><span style="style6">はい お弁当</span></p>
+<p xml:id="subtitle460" begin="23515992500t" end="23528922084t" region="region0" style="style5"><span style="style6">ほな もろていきます</span></p>
+<p xml:id="subtitle461" begin="23529756250t" end="23544354167t" region="region0" style="style5"><span style="style6">（おばさん）ご苦労さん</span></p>
+<p xml:id="subtitle462" begin="23568962084t" end="23580223334t" region="region0" style="style5"><span style="style6">ほな 行ってくるわ</span></p>
+<p xml:id="subtitle463" begin="23581057500t" end="23593987084t" region="region0" style="style5"><span style="style6">（おばさん）気ぃつけてな</span></p>
+<p xml:id="subtitle464" begin="23594821250t" end="23628605000t" region="region0" style="style5"><span style="style6">見てみ　昼は おむすびやから</span><br/><span style="style6">雑炊 我慢して食べ</span></p>
+<p xml:id="subtitle465" begin="23629439167t" end="23664474167t" region="region0" style="style5"><span style="style6">ええかげんにしとき</span><br/><span style="style6">うちにおるもんは昼かて雑炊や</span></p>
+<p xml:id="subtitle466" begin="23676152500t" end="23719529167t" region="region0" style="style5"><span style="style6">お国のために働いてる人らの弁当と</span><br/><span style="style6">一日中ぶらぶらしとる あんたらと</span></p>
+<p xml:id="subtitle467" begin="23720363334t" end="23737463750t" region="region0" style="style5"><span style="style6">なんで おんなじや思うの</span></p>
+<p xml:id="subtitle468" begin="23763322917t" end="23775835417t" region="region0" style="style5"><span style="style6">清太さんな</span></p>
+<p xml:id="subtitle469" begin="23776669584t" end="23816292500t" region="region0" style="style5"><span style="style6">あんた もう大きいねんから</span><br/><span style="style6">助け合い いうこと考えてくれな</span></p>
+<p xml:id="subtitle470" begin="23822548750t" end="23842568750t" region="region0" style="style5"><span style="style6">あんたらは お米ちっとも出さんと</span></p>
+<p xml:id="subtitle471" begin="23843402917t" end="23883860000t" region="region0" style="style5"><span style="style6">それで ごはん食べたい言うても</span><br/><span style="style6">そら いけませんよ　通りません</span></p>
+<p xml:id="subtitle472" begin="23893870000t" end="23907216667t" region="region0" style="style5"><span style="style6">（すする音）</span></p>
+<p xml:id="subtitle473" begin="23976869584t" end="24002728750t" region="region0" style="style5"><span style="style6">ちょっと続けて</span><br/><span style="style6">ごはん食べさせたったら</span></p>
+<p xml:id="subtitle474" begin="24003562917t" end="24028587917t" region="region0" style="style5"><span style="style6">まあ口が肥えてしまいよってからに</span></p>
+<p xml:id="subtitle475" begin="24029422084t" end="24054864167t" region="region0" style="style5"><span style="style6">そやかて あれ</span><br/><span style="style6">うちのお米やのに</span></p>
+<p xml:id="subtitle476" begin="24055698334t" end="24065708334t" region="region0" style="style5"><span style="style6">なんや</span></p>
+<p xml:id="subtitle477" begin="24066542500t" end="24091150417t" region="region0" style="style5"><span style="style6">そんなら おばさんが</span><br/><span style="style6">ずるいことしてるいうの？</span></p>
+<p xml:id="subtitle478" begin="24091984584t" end="24113672917t" region="region0" style="style5"><span style="style6">えらいこと言うねえ</span></p>
+<p xml:id="subtitle479" begin="24114507084t" end="24150376250t" region="region0" style="style5"><span style="style6">みなしご２人 預かったって</span><br/><span style="style6">そう言われたら世話ないわ</span></p>
+<p xml:id="subtitle480" begin="24158717917t" end="24195838334t" region="region0" style="style5"><span style="style6">よろし　うちと あんたらと</span><br/><span style="style6">ごはん別々にしましょ</span></p>
+<p xml:id="subtitle481" begin="24202511667t" end="24222531667t" region="region0" style="style5"><span style="style6">それやったら文句ないでしょ？</span></p>
+<p xml:id="subtitle482" begin="24223365834t" end="24237963750t" region="region0" style="style5"><span style="style6">それでな 清太さん</span></p>
+<p xml:id="subtitle483" begin="24238797917t" end="24267159584t" region="region0" style="style5"><span style="style6">あんたとこ</span><br/><span style="style6">東京にも親戚いてるんでしょ？</span></p>
+<p xml:id="subtitle484" begin="24267993750t" end="24299275000t" region="region0" style="style5"><span style="style6">お母さんの実家で</span><br/><span style="style6">なんやらいう人 おってやないの</span></p>
+<p xml:id="subtitle485" begin="24300109167t" end="24313455834t" region="region0" style="style5"><span style="style6">手紙 出したら どう？</span></p>
+<p xml:id="subtitle486" begin="24321380417t" end="24352661667t" region="region0" style="style0">この西宮かて<br/>いつ空襲されるか分からんよ</p>
+<p xml:id="subtitle487" begin="24358083750t" end="24376018334t" region="region0" style="style5"><span style="style6">そやかて 住所 分からへん</span></p>
+<p xml:id="subtitle488" begin="24381857500t" end="24392284584t" region="region0" style="style5"><span style="style6">（電車の警笛）</span></p>
+<p xml:id="subtitle489" begin="24467776667t" end="24483625834t" region="region0" style="style5"><span style="style6">（女の子）はよ おうち帰ろ</span></p>
+<p xml:id="subtitle490" begin="24484460000t" end="24514907084t" region="region0" style="style5"><span style="style6">（女の子の母）そやね</span><br/><span style="style6">お父ちゃん 待っとるもんね</span></p>
+<p xml:id="subtitle491" begin="24520329167t" end="24565374167t" region="region0" style="style0"><span style="style1">（女の子と母：歌声）</span><br/>カエルが鳴くから帰ろ</p>
+<p xml:id="subtitle492" begin="24566208334t" end="24590816250t" region="region0" style="style5"><span style="style6">（女の子と母の笑い声）</span></p>
+<p xml:id="subtitle493" begin="24596655417t" end="24625017084t" region="region0" style="style5"><span style="style6">堪忍 堪忍</span><br/><span style="style6">順番 えらい待たされてしもた</span></p>
+<p xml:id="subtitle494" begin="24665891250t" end="24678820834t" region="region0" style="style5"><span style="style6">どないした？</span></p>
+<p xml:id="subtitle495" begin="24685494167t" end="24718860834t" region="region0" style="style5"><span style="style6">おなか減った　のど乾いた</span></p>
+<p xml:id="subtitle496" begin="24719695000t" end="24728870834t" region="region0" style="style5"><span style="style6">よっしゃ</span></p>
+<p xml:id="subtitle497" begin="24770996250t" end="24789347917t" region="region0" style="style5"><span style="style6">ほら ドロップ なめ</span></p>
+<p xml:id="subtitle498" begin="24809367917t" end="24842734584t" region="region0" style="style5"><span style="style6">（清太）お母ちゃん 銀行に</span><br/><span style="style6">7000円も貯金しとったんや</span></p>
+<p xml:id="subtitle499" begin="24848990834t" end="24861503334t" region="region0" style="style5"><span style="style6">7000円やで</span></p>
+<p xml:id="subtitle500" begin="24862337500t" end="24889865000t" region="region0" style="style5"><span style="style6">あんだけあったら</span><br/><span style="style6">なんとでもやってけるわ</span></p>
+<p xml:id="subtitle501" begin="24890699167t" end="24902794584t" region="region0" style="style5"><span style="style6">もう心配あれへん</span></p>
+<p xml:id="subtitle502" begin="24927402500t" end="24939497917t" region="region0" style="style5"><span style="style6">お父ちゃんにな</span></p>
+<p xml:id="subtitle503" begin="24940332084t" end="24965357084t" region="region0" style="style5"><span style="style6">“はよ返事下さい</span><br/><span style="style6">節子が待ってます”</span></p>
+<p xml:id="subtitle504" begin="24966191250t" end="24979120834t" region="region0" style="style5"><span style="style6">いうて書いてるんや</span></p>
+<p xml:id="subtitle505" begin="24987462500t" end="25008733750t" region="region0" style="style5"><span style="style6">（清太の笑い声）</span></p>
+<p xml:id="subtitle506" begin="25030422084t" end="25050442084t" region="region0" style="style5"><span style="style6">-（節子）や～</span><br/><span style="style6">-（清太）ハア～</span></p>
+<p xml:id="subtitle507" begin="25077969584t" end="25100909167t" region="region0" style="style5"><span style="style6">（荒物屋の主人）</span><br/><span style="style6">あんたらは運がええ</span></p>
+<p xml:id="subtitle508" begin="25101743334t" end="25119677917t" region="region0" style="style5"><span style="style6">今どき こないな七輪</span></p>
+<p xml:id="subtitle509" begin="25120512084t" end="25151376250t" region="region0" style="style5"><span style="style6">なんぼ</span><span style="style8"><span style="style9">金 </span><span style="style10">かね</span></span><span style="style6">出したかて</span><br/><span style="style6">手に入らへんで</span></p>
+<p xml:id="subtitle510" begin="25152210417t" end="25187245417t" region="region0" style="style5"><span style="style6">きょうびは売ろうにも</span><br/><span style="style6">品物がのうて商売 上がったりや</span></p>
+<p xml:id="subtitle511" begin="25188079584t" end="25216441250t" region="region0" style="style5"><span style="style6">特に金物はあかん</span><br/><span style="style6">どっこにもないわ</span></p>
+<p xml:id="subtitle512" begin="25236878334t" end="25253144584t" region="region0" style="style5"><span style="style6">あのツゲのクシと</span></p>
+<p xml:id="subtitle513" begin="25253978750t" end="25275667084t" region="region0" style="style5"><span style="style6">それから… 番傘ないですか？</span></p>
+<p xml:id="subtitle514" begin="25281506250t" end="25298606667t" region="region0" style="style5"><span style="style6">傘はないなぁ</span></p>
+<p xml:id="subtitle515" begin="25299440834t" end="25309450834t" region="region0" style="style5"><span style="style6">あっ そや</span></p>
+<p xml:id="subtitle516" begin="25314872917t" end="25365757084t" region="region0" style="style0"><span style="style1">（清太と節子：歌声）</span><br/>あめあめ ふれふれ 兄ちゃんが</p>
+<p xml:id="subtitle517" begin="25366591250t" end="25407465417t" region="region0" style="style0">じゃのめで お迎えうれしいな</p>
+<p xml:id="subtitle518" begin="25413304584t" end="25454595834t" region="region0" style="style0">ピチピチ チャプチャプ<br/>ランランラン</p>
+<p xml:id="subtitle519" begin="25465022917t" end="25512987500t" region="region0" style="style0">あめあめ ふれふれ 兄ちゃんが</p>
+<p xml:id="subtitle520" begin="25513821667t" end="25534258750t" region="region0" style="style0">じゃのめで お迎え…</p>
+<p xml:id="subtitle521" begin="25575132917t" end="25595152917t" region="region0" style="style5"><span style="style6">-（清太）うまいやろ 兄ちゃん</span><br/><span style="style6">-（節子）うん</span></p>
+<p xml:id="subtitle522" begin="25595987084t" end="25614338750t" region="region0" style="style5"><span style="style6">火の始末だけは 気ぃつけてや</span></p>
+<p xml:id="subtitle523" begin="25615172917t" end="25624765834t" region="region0" style="style5"><span style="style6">はい</span></p>
+<p xml:id="subtitle524" begin="25655212917t" end="25678986667t" region="region0" style="style5"><span style="style6">（下宿人）</span><br/><span style="style6">どないしたんです？　あの２人</span></p>
+<p xml:id="subtitle525" begin="25679820834t" end="25706097084t" region="region0" style="style5"><span style="style6">（おばさん）</span><br/><span style="style6">今日から自分らで自炊するんやて</span></p>
+<p xml:id="subtitle526" begin="25706931250t" end="25736544167t" region="region0" style="style5"><span style="style6">（下宿人）ほお</span><br/><span style="style6">そりゃまた けなげなこってすな</span></p>
+<p xml:id="subtitle527" begin="25737378334t" end="25746971250t" region="region0" style="style5"><span style="style6">お代わり</span></p>
+<p xml:id="subtitle528" begin="25747805417t" end="25776584167t" region="region0" style="style5"><span style="style6">（おばさんの娘）お母ちゃん</span><br/><span style="style6">また きついこと言うたんちゃうの</span></p>
+<p xml:id="subtitle529" begin="25777418334t" end="25809116667t" region="region0" style="style5"><span style="style6">そやけど ごめんなさいの</span><br/><span style="style6">ひと言ものうて</span></p>
+<p xml:id="subtitle530" begin="25809950834t" end="25846654167t" region="region0" style="style5"><span style="style6">七輪から何から</span><span style="style8"><span style="style9">買</span><span style="style10">こ</span></span><span style="style6">うてきてからに</span><br/><span style="style6">まるで当てつけや</span></p>
+<p xml:id="subtitle531" begin="25860000834t" end="25872930417t" region="region0" style="style5"><span style="style6">（清太）ごっつぉーさん</span></p>
+<p xml:id="subtitle532" begin="25883774584t" end="25912553334t" region="region0" style="style5"><span style="style6">ふんっ あ～っ！</span></p>
+<p xml:id="subtitle533" begin="25917975417t" end="25926734167t" region="region0" style="style5"><span style="style6">ハア</span></p>
+<p xml:id="subtitle534" begin="25927568334t" end="25948005417t" region="region0" style="style5"><span style="style6">牛になるよ 兄ちゃん</span></p>
+<p xml:id="subtitle535" begin="25962603334t" end="25988045417t" region="region0" style="style5"><span style="style6">ええよ</span><br/><span style="style6">そんなに きちんと座らんでも</span></p>
+<p xml:id="subtitle536" begin="26091065000t" end="26109416667t" region="region0" style="style5"><span style="style6">（配給所の男性）はい ２人分な</span></p>
+<p xml:id="subtitle537" begin="26110250834t" end="26118592500t" region="region0" style="style5"><span style="style6">これだけ？</span></p>
+<p xml:id="subtitle538" begin="26119426667t" end="26154461667t" region="region0" style="style5"><span style="style6">ああ　次の配給は</span><br/><span style="style6">７月に入ってからになるやろ</span></p>
+<p xml:id="subtitle539" begin="26168642500t" end="26227034167t" region="region0" style="style5"><span style="style6">（節子の泣き叫ぶ声）</span></p>
+<p xml:id="subtitle540" begin="26325048750t" end="26337561250t" region="region1" style="style7"><span style="style6">（音なし）</span></p>
+<p xml:id="subtitle541" begin="26400957917t" end="26436410000t" region="region0" style="style5"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle542" begin="26483540417t" end="26496470000t" region="region0" style="style5"><span style="style6">（カランと鳴る音）</span></p>
+<p xml:id="subtitle543" begin="26497304167t" end="26508982500t" region="region0" style="style5"><span style="style6">ハッ…</span></p>
+<p xml:id="subtitle544" begin="27099572500t" end="27108748334t" region="region0" style="style5"><span style="style6">ハッ…</span></p>
+<p xml:id="subtitle545" begin="27123763334t" end="27142949167t" region="region0" style="style5"><span style="style6">（小声で）うちがやるぅ</span></p>
+<p xml:id="subtitle546" begin="27342315000t" end="27352742084t" region="region0" style="style5"><span style="style6">（清太）フフッ</span></p>
+<p xml:id="subtitle547" begin="27376932917t" end="27388611250t" region="region0" style="style5"><span style="style6">（飲む音）</span></p>
+<p xml:id="subtitle548" begin="27389445417t" end="27400706667t" region="region0" style="style5"><span style="style6">甘いか？</span></p>
+<p xml:id="subtitle549" begin="27446168750t" end="27457430000t" region="region0" style="style5"><span style="style6">ハア～</span></p>
+<p xml:id="subtitle550" begin="27470776667t" end="27490379584t" region="region0" style="style5"><span style="style6">味が いっぱいする！</span></p>
+<p xml:id="subtitle551" begin="27491213750t" end="27499555417t" region="region0" style="style5"><span style="style6">ハハハッ</span></p>
+<p xml:id="subtitle552" begin="27500389584t" end="27536675834t" region="region0" style="style5"><span style="style6">ブドウ イチゴ メロン ハッカ</span><br/><span style="style6">ぜ～んぶ入ってるもんな</span></p>
+<p xml:id="subtitle553" begin="27537510000t" end="27557530000t" region="region0" style="style5"><span style="style6">節子 みんな飲んでええわ</span></p>
+<p xml:id="subtitle554" begin="27642197917t" end="27651790834t" region="region0" style="style5"><span style="style6">ハア～</span></p>
+<p xml:id="subtitle555" begin="27657212917t" end="27668474167t" region="region0" style="style5"><span style="style6">飲んでしもうた</span></p>
+<p xml:id="subtitle556" begin="27669308334t" end="27685157500t" region="region0" style="style5"><span style="style6">（２人の笑い声）</span></p>
+<p xml:id="subtitle557" begin="27713102084t" end="27752307917t" region="region0" style="style5"><span style="style6">あれあれ</span><br/><span style="style6">片づけもせんで寝てしもて</span></p>
+<p xml:id="subtitle558" begin="27753142084t" end="27779835417t" region="region0" style="style5"><span style="style6">もう 勝手なことばっかりして</span></p>
+<p xml:id="subtitle559" begin="27780669584t" end="27812367917t" region="region0" style="style5"><span style="style6">ほんまに あの子らには</span><br/><span style="style6">かわいげいうもんがないんやから</span></p>
+<p xml:id="subtitle560" begin="27817372917t" end="27830719584t" region="region0" style="style5"><span style="style6">（節子の泣き声）</span></p>
+<p xml:id="subtitle561" begin="27831553750t" end="27841563750t" region="region0" style="style5"><span style="style6">またや</span></p>
+<p xml:id="subtitle562" begin="27842397917t" end="27855327500t" region="region1" style="style7"><span style="style6">（節子）お母ちゃん！</span><br/><span style="style6">お母ちゃん</span></p>
+<p xml:id="subtitle563" begin="27855327500t" end="27877015834t" region="region1" style="style7"><span style="style6">（節子）お母ちゃん！</span><br/><span style="style6">お母ちゃん</span></p>
+<p xml:id="subtitle564" begin="27855327500t" end="27877015834t" region="region0" style="style5"><span style="style6">清太さん　こいさんも兄さんも</span><br/><span style="style6">お国のために働いてるんですさかい</span></p>
+<p xml:id="subtitle565" begin="27877015834t" end="27877850000t" region="region0" style="style5"><span style="style6">清太さん　こいさんも兄さんも</span><br/><span style="style6">お国のために働いてるんですさかい</span></p>
+<p xml:id="subtitle566" begin="27877850000t" end="27896618750t" region="region0" style="style5"><span style="style6">清太さん　こいさんも兄さんも</span><br/><span style="style6">お国のために働いてるんですさかい</span></p>
+<p xml:id="subtitle567" begin="27877850000t" end="27896618750t" region="region1" style="style7"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle568" begin="27903292084t" end="27930819584t" region="region0" style="style5"><span style="style6">せめて あんた</span><br/><span style="style6">泣かせんようにしたらどないやの</span></p>
+<p xml:id="subtitle569" begin="27903292084t" end="27930819584t" region="region1" style="style7"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle570" begin="27930819584t" end="27931653750t" region="region1" style="style7"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle571" begin="27931653750t" end="27936658750t" region="region1" style="style7"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle572" begin="27931653750t" end="27936658750t" region="region0" style="style5"><span style="style6">毎晩毎晩 警報で⸺</span></p>
+<p xml:id="subtitle573" begin="27936658750t" end="27947085834t" region="region0" style="style5"><span style="style6">毎晩毎晩 警報で⸺</span></p>
+<p xml:id="subtitle574" begin="27947920000t" end="27969608334t" region="region0" style="style5"><span style="style6">ええかげん みんな</span><br/><span style="style6">寝不足になっとるいうのに</span></p>
+<p xml:id="subtitle575" begin="27970442500t" end="27984623334t" region="region0" style="style5"><span style="style6">うるそうて寝られへん</span></p>
+<p xml:id="subtitle576" begin="28009231250t" end="28066371667t" region="region0" style="style5"><span style="style6">（節子）ええ～ん　お母ちゃん</span><br/><span style="style6">お母ちゃん　ええ～ん</span></p>
+<p xml:id="subtitle577" begin="28067205834t" end="28116004584t" region="region0" style="style0"><span style="style1">（清太：歌声）</span>カラス なぜ鳴くの</p>
+<p xml:id="subtitle578" begin="28126431667t" end="28167305834t" region="region0" style="style5"><span style="style6">（鼻歌）</span></p>
+<p xml:id="subtitle579" begin="28178984167t" end="28201506667t" region="region0" style="style5"><span style="style6">（空襲警報のサイレン）</span></p>
+<p xml:id="subtitle580" begin="28202340834t" end="28224446250t" region="region0" style="style5"><span style="style6">ん？　ああっ</span></p>
+<p xml:id="subtitle581" begin="28231536667t" end="28251139584t" region="region0" style="style5"><span style="style6">（ブザー）</span></p>
+<p xml:id="subtitle582" begin="28251973750t" end="28294099167t" region="region0" style="style0"><span style="style1">（スピーカー：男性）</span><br/>中部軍管区情報　中部軍管区情報</p>
+<p xml:id="subtitle583" begin="28294933334t" end="28340812500t" region="region0" style="style0">敵 <span style="style2"><span style="style3">数</span><span style="style4">すう</span></span>目標は 現在<br/><span style="style2"><span style="style3">紀伊水道</span><span style="style4">きいすいどう</span></span>を北上しつつあり</p>
+<p xml:id="subtitle584" begin="28341646667t" end="28370008334t" region="region0" style="style0"><span style="style1">（おばさん）</span><br/>清太さん　また横穴 行くんか</p>
+<p xml:id="subtitle585" begin="28370842500t" end="28383772084t" region="region0" style="style0">あんたの年やったら</p>
+<p xml:id="subtitle586" begin="28384606250t" end="28415470417t" region="region0" style="style0"><span style="style2"><span style="style3">隣組</span><span style="style4">となりぐみ</span></span>の防火活動するんが<br/>当たり前やないの？</p>
+<p xml:id="subtitle587" begin="28450088334t" end="28485123334t" region="region0" style="style5"><span style="style6">-（サイレン）</span><br/><span style="style6">-（男性）警報解除！</span></p>
+<p xml:id="subtitle588" begin="28532253750t" end="28554359167t" region="region0" style="style5"><span style="style6">（節子）おうち帰りたいわあ</span></p>
+<p xml:id="subtitle589" begin="28559781250t" end="28583137917t" region="region0" style="style5"><span style="style6">おばさんとこ もうイヤや</span></p>
+<p xml:id="subtitle590" begin="28606911667t" end="28630685417t" region="region0" style="style5"><span style="style6">おうち焼けてしもたもん あれへん</span></p>
+<p xml:id="subtitle591" begin="28689077084t" end="28726614584t" region="region0" style="style0"><span style="style1">（清太：歌声）</span><br/>ホニハーニー ホーイートー</p>
+<p xml:id="subtitle592" begin="28727448750t" end="28757895834t" region="region0" style="style0">ホホホー ニハニー</p>
+<p xml:id="subtitle593" begin="28758730000t" end="28767071667t" region="region0" style="style5"><span style="style6">はい</span></p>
+<p xml:id="subtitle594" begin="28767905834t" end="28802940834t" region="region0" style="style0">屋根より高い</p>
+<p xml:id="subtitle595" begin="28803775000t" end="28837141667t" region="region0" style="style0">こいのぼり</p>
+<p xml:id="subtitle596" begin="28842563750t" end="28907211667t" region="region0" style="style0">大きな まごいは お父さん</p>
+<p xml:id="subtitle597" begin="28908045834t" end="28923060834t" region="region0" style="style5"><span style="style6">-（おばさん）よしなさい！</span><br/><span style="style6">-（２人）ちい…</span></p>
+<p xml:id="subtitle598" begin="28923895000t" end="28963935000t" region="region0" style="style5"><span style="style6">この戦時中に何ですか</span><br/><span style="style6">怒られるのは おばさんですよ</span></p>
+<p xml:id="subtitle599" begin="28964769167t" end="28973110834t" region="region0" style="style5"><span style="style6">非常識な</span></p>
+<p xml:id="subtitle600" begin="28990628334t" end="29027748750t" region="region0" style="style5"><span style="style6">ほんまに えらい疫病神が</span><br/><span style="style6">舞い込んできたもんや</span></p>
+<p xml:id="subtitle601" begin="29033587917t" end="29059447084t" region="region0" style="style5"><span style="style6">空襲いうたって何の役にも立たんし</span></p>
+<p xml:id="subtitle602" begin="29060281250t" end="29099904167t" region="region0" style="style5"><span style="style6">そんなに命 惜しいねんやったら</span><br/><span style="style6">横穴に住んどったらええのに</span></p>
+<p xml:id="subtitle603" begin="29137441667t" end="29146617500t" region="region0" style="style5"><span style="style6">あんなぁ</span></p>
+<p xml:id="subtitle604" begin="29163717917t" end="29179567084t" region="region0" style="style5"><span style="style6">ここ おうちにしようか</span></p>
+<p xml:id="subtitle605" begin="29202506667t" end="29235456250t" region="region0" style="style5"><span style="style6">ここやったら 誰も</span><span style="style8"><span style="style9">来</span><span style="style10">け</span></span><span style="style6">えへんし</span><br/><span style="style6">柱も太いし</span></p>
+<p xml:id="subtitle606" begin="29236290417t" end="29252556667t" region="region0" style="style5"><span style="style6">節子と２人で好きにできるよ</span></p>
+<p xml:id="subtitle607" begin="29253390834t" end="29277164584t" region="region0" style="style5"><span style="style6">うちらの おうちにしてええのん？</span></p>
+<p xml:id="subtitle608" begin="29283420834t" end="29291762500t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle609" begin="29308862917t" end="29334305000t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle610" begin="29379767084t" end="29416053334t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle611" begin="29489042917t" end="29497384584t" region="region0" style="style5"><span style="style6">あっ！</span></p>
+<p xml:id="subtitle612" begin="29521992500t" end="29538258750t" region="region0" style="style5"><span style="style6">えらい長いこと お邪魔しました</span></p>
+<p xml:id="subtitle613" begin="29539092917t" end="29556193334t" region="region0" style="style5"><span style="style6">僕ら よそへ移ります</span></p>
+<p xml:id="subtitle614" begin="29562449584t" end="29585389167t" region="region0" style="style5"><span style="style6">よそて…　どこ行くの</span></p>
+<p xml:id="subtitle615" begin="29586223334t" end="29605826250t" region="region0" style="style5"><span style="style6">まだ はっきりしてませんけど</span></p>
+<p xml:id="subtitle616" begin="29606660417t" end="29623343750t" region="region0" style="style5"><span style="style6">（おばさん）はあ…</span></p>
+<p xml:id="subtitle617" begin="29632936667t" end="29667971667t" region="region0" style="style5"><span style="style6">ほな まあ　気ぃつけてな</span><br/><span style="style6">節ちゃん さいなら</span></p>
+<p xml:id="subtitle618" begin="29750554167t" end="29766820417t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle619" begin="29767654584t" end="29775996250t" region="region0" style="style5"><span style="style6">ん？</span></p>
+<p xml:id="subtitle620" begin="29788925834t" end="29825212084t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle621" begin="29836473334t" end="29846900417t" region="region0" style="style5"><span style="style6">（ため息）</span></p>
+<p xml:id="subtitle622" begin="29851905417t" end="29872342500t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle623" begin="29873176667t" end="29894447917t" region="region0" style="style5"><span style="style6">ここが お台所</span></p>
+<p xml:id="subtitle624" begin="29901538334t" end="29917387500t" region="region0" style="style5"><span style="style6">（笑い声）</span></p>
+<p xml:id="subtitle625" begin="29918221667t" end="29933236667t" region="region0" style="style5"><span style="style6">こっちが玄関</span></p>
+<p xml:id="subtitle626" begin="29963266667t" end="29987457500t" region="region0" style="style5"><span style="style6">はばかりは どこにすんの？</span></p>
+<p xml:id="subtitle627" begin="29999970000t" end="30030834167t" region="region0" style="style5"><span style="style6">（清太）ええやんか どこでも</span><br/><span style="style6">お兄ちゃん ついてったるさかい</span></p>
+<p xml:id="subtitle628" begin="30031668334t" end="30081718334t" region="region0" style="style5"><span style="style6">（節子の鼻歌）</span></p>
+<p xml:id="subtitle629" begin="30082552500t" end="30112165417t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle630" begin="30135522084t" end="30151371250t" region="region0" style="style5"><span style="style6">ありがとうございました</span></p>
+<p xml:id="subtitle631" begin="30152205417t" end="30176396250t" region="region0" style="style5"><span style="style6">（</span><span style="style8"><span style="style9">吾作</span><span style="style10">ごさく</span></span><span style="style6">）そこらへんに置いといてや</span></p>
+<p xml:id="subtitle632" begin="30190994167t" end="30218938750t" region="region0" style="style5"><span style="style6">あの…　ワラ もう少しと</span></p>
+<p xml:id="subtitle633" begin="30219772917t" end="30250637084t" region="region0" style="style5"><span style="style6">何か おかずになるようなもん</span><br/><span style="style6">売ってくれませんか</span></p>
+<p xml:id="subtitle634" begin="30251471250t" end="30281084167t" region="region0" style="style5"><span style="style6">ああ ええよ</span><br/><span style="style6">あるもんしかないけどな</span></p>
+<p xml:id="subtitle635" begin="30481701250t" end="30503806667t" region="region0" style="style5"><span style="style6">（清太）ん？　あっ…</span></p>
+<p xml:id="subtitle636" begin="30504640834t" end="30515485000t" region="region0" style="style5"><span style="style6">（節子）ん？</span></p>
+<p xml:id="subtitle637" begin="30548434584t" end="30570957084t" region="region0" style="style5"><span style="style6">-（清太）そらっ</span><br/><span style="style6">-（節子の笑い声）</span></p>
+<p xml:id="subtitle638" begin="30609328750t" end="30627263334t" region="region0" style="style5"><span style="style6">フウ～　フウ～</span></p>
+<p xml:id="subtitle639" begin="30628097500t" end="30640610000t" region="region0" style="style5"><span style="style6">（節子）うわっ</span></p>
+<p xml:id="subtitle640" begin="30641444167t" end="30651454167t" region="region0" style="style5"><span style="style6">（せき込み）</span></p>
+<p xml:id="subtitle641" begin="30745297917t" end="30753639584t" region="region0" style="style5"><span style="style6">ハア～</span></p>
+<p xml:id="subtitle642" begin="30788674584t" end="30797016250t" region="region0" style="style5"><span style="style6">ウフッ</span></p>
+<p xml:id="subtitle643" begin="30818287500t" end="30829548750t" region="region0" style="style5"><span style="style6">（２人）わあ～</span></p>
+<p xml:id="subtitle644" begin="30830382917t" end="30857910417t" region="region0" style="style5"><span style="style6">-（節子）ツバが出る～</span><br/><span style="style6">-（清太）腹減ったぁ</span></p>
+<p xml:id="subtitle645" begin="30925895000t" end="30939241667t" region="region0" style="style5"><span style="style6">（清太）フフフッ</span></p>
+<p xml:id="subtitle646" begin="30996799167t" end="31007226250t" region="region0" style="style5"><span style="style6">（節子）ハア～</span></p>
+<p xml:id="subtitle647" begin="31008060417t" end="31046849167t" region="region0" style="style5"><span style="style6">（カエルの鳴き声）</span></p>
+<p xml:id="subtitle648" begin="31122341250t" end="31149034584t" region="region0" style="style5"><span style="style6">とれたら あれも</span><br/><span style="style6">食えるはずなんやけどな</span></p>
+<p xml:id="subtitle649" begin="31149868750t" end="31164049584t" region="region0" style="style5"><span style="style6">（節子）カエル？</span></p>
+<p xml:id="subtitle650" begin="31169054584t" end="31183652500t" region="region0" style="style5"><span style="style6">（清太）うまいんやて</span></p>
+<p xml:id="subtitle651" begin="31184486667t" end="31196165000t" region="region0" style="style5"><span style="style6">（節子）ふ～ん</span></p>
+<p xml:id="subtitle652" begin="31220355834t" end="31246632084t" region="region0" style="style5"><span style="style6">（清太）節子</span><br/><span style="style6">あとはええから 蚊帳に入っとり</span></p>
+<p xml:id="subtitle653" begin="31350902917t" end="31361747084t" region="region0" style="style5"><span style="style6">どないしたん</span></p>
+<p xml:id="subtitle654" begin="31362581250t" end="31384269584t" region="region0" style="style5"><span style="style6">歯ブラシ 忘れてきた</span></p>
+<p xml:id="subtitle655" begin="31385103750t" end="31411797084t" region="region0" style="style5"><span style="style6">（清太）</span><br/><span style="style6">ええやんか １日ぐらいせんでも</span></p>
+<p xml:id="subtitle656" begin="31443078334t" end="31478113334t" region="region0" style="style5"><span style="style6">ほら 蚊に食われるやないか</span><br/><span style="style6">蚊帳に入っとらな あかん</span></p>
+<p xml:id="subtitle657" begin="31483118334t" end="31501470000t" region="region0" style="style5"><span style="style6">真っ暗やし怖い</span></p>
+<p xml:id="subtitle658" begin="31556942084t" end="31584469584t" region="region0" style="style5"><span style="style6">兄ちゃん しょんべん行くけど</span><br/><span style="style6">節子もするか？</span></p>
+<p xml:id="subtitle659" begin="31585303750t" end="31593645417t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle660" begin="31594479584t" end="31622424167t" region="region0" style="style5"><span style="style6">（飛行音）</span></p>
+<p xml:id="subtitle661" begin="31638690417t" end="31653705417t" region="region0" style="style5"><span style="style6">あれ 特攻やで</span></p>
+<p xml:id="subtitle662" begin="31654539584t" end="31666217917t" region="region0" style="style5"><span style="style6">（節子）ふ～ん</span></p>
+<p xml:id="subtitle663" begin="31667052084t" end="31685820834t" region="region0" style="style5"><span style="style6">蛍みたいやね</span></p>
+<p xml:id="subtitle664" begin="31686655000t" end="31698750417t" region="region0" style="style5"><span style="style6">（清太）そうやな</span></p>
+<p xml:id="subtitle665" begin="31715016667t" end="31733785417t" region="region0" style="style5"><span style="style6">そや　蛍 つかまえよか</span></p>
+<p xml:id="subtitle666" begin="31739624584t" end="31763398334t" region="region0" style="style5"><span style="style6">-（節子）フフフッ</span><br/><span style="style6">-（清太）ほら 入って</span></p>
+<p xml:id="subtitle667" begin="31764232500t" end="31776745000t" region="region0" style="style5"><span style="style6">（節子）フフフッ</span></p>
+<p xml:id="subtitle668" begin="31830965834t" end="31847232084t" region="region0" style="style5"><span style="style6">（２人の笑い声）</span></p>
+<p xml:id="subtitle669" begin="31895196667t" end="31919387500t" region="region0" style="style5"><span style="style6">あっ 兄ちゃんの顔 見えた！</span></p>
+<p xml:id="subtitle670" begin="31920221667t" end="31943578334t" region="region0" style="style5"><span style="style6">-（清太）ハハハッ 節子の顔もや</span><br/><span style="style6">-（節子）あっ わあ！</span></p>
+<p xml:id="subtitle671" begin="31953171250t" end="31961930000t" region="region0" style="style5"><span style="style6">あっ</span></p>
+<p xml:id="subtitle672" begin="31975693750t" end="31987789167t" region="region0" style="style5"><span style="style6">あっ かんざし</span></p>
+<p xml:id="subtitle673" begin="31995296667t" end="32018653334t" region="region0" style="style5"><span style="style6">-（節子）ん？　わあ！</span><br/><span style="style6">-（清太）あ…</span></p>
+<p xml:id="subtitle674" begin="32041592917t" end="32072874167t" region="region0" style="style5"><span style="style6">よし　“蛍の光 窓の雪”や</span></p>
+<p xml:id="subtitle675" begin="32134185417t" end="32152537084t" region="region0" style="style5"><span style="style6">わあ～</span></p>
+<p xml:id="subtitle676" begin="32158793334t" end="32171305834t" region="region0" style="style5"><span style="style6">フハハッ</span></p>
+<p xml:id="subtitle677" begin="32180064584t" end="32188406250t" region="region0" style="style5"><span style="style6">フフッ</span></p>
+<p xml:id="subtitle678" begin="32463264167t" end="32512480000t" region="region0" style="style5"><span style="style6">（「軍艦行進曲」の演奏）</span></p>
+<p xml:id="subtitle679" begin="32613831250t" end="32624675417t" region="region0" style="style5"><span style="style6">兄ちゃんな</span></p>
+<p xml:id="subtitle680" begin="32625509584t" end="32654288334t" region="region0" style="style5"><span style="style6">節子の生まれる前</span><br/><span style="style6">観艦式 見たことあったんや</span></p>
+<p xml:id="subtitle681" begin="32655122500t" end="32673474167t" region="region0" style="style5"><span style="style6">（節子）カンカンシキ？</span></p>
+<p xml:id="subtitle682" begin="32674308334t" end="32703504167t" region="region0" style="style5"><span style="style6">そや　お父ちゃん</span><br/><span style="style6">巡洋艦</span><span style="style8"><span style="style9">摩耶</span><span style="style10">まや</span></span><span style="style6">に乗ってな</span></p>
+<p xml:id="subtitle683" begin="32708509167t" end="32723941250t" region="region0" style="style5"><span style="style6">連合艦隊勢ぞろいやで</span></p>
+<p xml:id="subtitle684" begin="32909126250t" end="32942910000t" region="region0" style="style5"><span style="style6">（花火の打ち上げ音）</span></p>
+<p xml:id="subtitle685" begin="32993794167t" end="33030914584t" region="region0" style="style5"><span style="style6">（歓声）</span></p>
+<p xml:id="subtitle686" begin="33103070000t" end="33141024584t" region="region0" style="style0">守るも攻むるも くろがねの</p>
+<p xml:id="subtitle687" begin="33141858750t" end="33176893750t" region="region0" style="style0">浮かべる城ぞ 頼みなる</p>
+<p xml:id="subtitle688" begin="33183150000t" end="33204421250t" region="region0" style="style5"><span style="style6">敵機来襲！　バババババ…</span></p>
+<p xml:id="subtitle689" begin="33205255417t" end="33230280417t" region="region0" style="style5"><span style="style6">ババババ… バババババ…</span></p>
+<p xml:id="subtitle690" begin="33263647084t" end="33276993750t" region="region0" style="style5"><span style="style6">（カエルの鳴き声）</span></p>
+<p xml:id="subtitle691" begin="33307440834t" end="33339139167t" region="region0" style="style5"><span style="style6">お父ちゃん</span><br/><span style="style6">どこで戦争してはんねんやろな</span></p>
+<p xml:id="subtitle692" begin="33406706667t" end="33445078334t" region="region0" style="style5"><span style="style6">（「軍艦行進曲」の鼻歌）</span></p>
+<p xml:id="subtitle693" begin="33613162917t" end="33656539584t" region="region0" style="style5"><span style="style6">（節子）うう～ん</span><br/><span style="style6">苦しいやん 兄ちゃん</span></p>
+<p xml:id="subtitle694" begin="33747463750t" end="33766649584t" region="region0" style="style5"><span style="style6">（息を吐く音）</span></p>
+<p xml:id="subtitle695" begin="33904287084t" end="33934734167t" region="region0" style="style5"><span style="style6">（鳥のさえずり）</span></p>
+<p xml:id="subtitle696" begin="34044427084t" end="34053185834t" region="region0" style="style5"><span style="style6">何しとんねん</span></p>
+<p xml:id="subtitle697" begin="34054020000t" end="34070703334t" region="region0" style="style5"><span style="style6">お墓 作ってんねん</span></p>
+<p xml:id="subtitle698" begin="34076959584t" end="34103652917t" region="region0" style="style5"><span style="style6">お母ちゃんも</span><br/><span style="style6">お墓に入ってんねんやろ？</span></p>
+<p xml:id="subtitle699" begin="34104487084t" end="34119919167t" region="region0" style="style5"><span style="style6">（息をのむ音）</span></p>
+<p xml:id="subtitle700" begin="34158290834t" end="34186235417t" region="region0" style="style5"><span style="style6">うち おばちゃんに聞いてん</span></p>
+<p xml:id="subtitle701" begin="34187069584t" end="34231280417t" region="region0" style="style5"><span style="style6">お母ちゃん もう死にはって</span><br/><span style="style6">お墓の中に いてるねんて</span></p>
+<p xml:id="subtitle702" begin="34282581667t" end="34313028750t" region="region0" style="style5"><span style="style6">（震える息）</span></p>
+<p xml:id="subtitle703" begin="34341807500t" end="34357239584t" region="region0" style="style5"><span style="style6">（息を吐く音）</span></p>
+<p xml:id="subtitle704" begin="34358073750t" end="34375174167t" region="region0" style="style5"><span style="style6">（震える息）</span></p>
+<p xml:id="subtitle705" begin="34376008334t" end="34388937917t" region="region0" style="style5"><span style="style6">（息を吐く音）</span></p>
+<p xml:id="subtitle706" begin="34389772084t" end="34407289584t" region="region0" style="style5"><span style="style6">（震える息）</span></p>
+<p xml:id="subtitle707" begin="34497796667t" end="34510726250t" region="region0" style="style5"><span style="style6">（はなをすする音）</span></p>
+<p xml:id="subtitle708" begin="34540339167t" end="34558273750t" region="region0" style="style5"><span style="style6">いつか お墓 行こな</span></p>
+<p xml:id="subtitle709" begin="34565364167t" end="34580379167t" region="region0" style="style5"><span style="style6">節子 覚えてへんか？</span></p>
+<p xml:id="subtitle710" begin="34581213334t" end="34610409167t" region="region0" style="style5"><span style="style8"><span style="style9">布引</span><span style="style10">ぬのびき</span></span><span style="style6">の近くの墓地</span><br/><span style="style6">行ったことあるやろ</span></p>
+<p xml:id="subtitle711" begin="34620419167t" end="34645861250t" region="region0" style="style5"><span style="style6">あすこに いてはるわ お母ちゃん</span></p>
+<p xml:id="subtitle712" begin="34651283334t" end="34674222917t" region="region0" style="style5"><span style="style6">大きなクスの木の下の…</span></p>
+<p xml:id="subtitle713" begin="34675057084t" end="34704670000t" region="region0" style="style5"><span style="style6">なんで蛍 すぐ死んでしまうん？</span></p>
+<p xml:id="subtitle714" begin="34705504167t" end="34732614584t" region="region0" style="style5"><span style="style6">（震える息）</span></p>
+<p xml:id="subtitle715" begin="35053768750t" end="35086301250t" region="region0" style="style5"><span style="style6">（子供たちの笑い声）</span></p>
+<p xml:id="subtitle716" begin="35096311250t" end="35122587500t" region="region0" style="style5"><span style="style6">（少年Ａ）なんや</span><br/><span style="style6">こんなとこ誰か住んどるで</span></p>
+<p xml:id="subtitle717" begin="35123421667t" end="35134682917t" region="region0" style="style5"><span style="style6">（少年Ｂ）焼け出されかいな</span></p>
+<p xml:id="subtitle718" begin="35135517084t" end="35160542084t" region="region0" style="style5"><span style="style6">（少年Ｃ）シーッ</span><br/><span style="style6">怖いおっさん出てくるんちゃうか</span></p>
+<p xml:id="subtitle719" begin="35161376250t" end="35196411250t" region="region0" style="style5"><span style="style6">（少年Ｂ）あっ いっちょまえに</span><br/><span style="style6">これ ブランコやで</span></p>
+<p xml:id="subtitle720" begin="35201416250t" end="35227275417t" region="region0" style="style5"><span style="style6">（少年Ｄ）</span><br/><span style="style6">子供がおるんや　なんやぁ？</span></p>
+<p xml:id="subtitle721" begin="35232280417t" end="35249380834t" region="region0" style="style5"><span style="style6">ナンマイダ ナンマイダ</span></p>
+<p xml:id="subtitle722" begin="35273154584t" end="35293591667t" region="region0" style="style5"><span style="style6">これが本物やったらなぁ</span></p>
+<p xml:id="subtitle723" begin="35299013750t" end="35324872917t" region="region0" style="style5"><span style="style6">（少年Ｃ）</span><br/><span style="style6">あっ “セツコ”　セツコやて</span></p>
+<p xml:id="subtitle724" begin="35325707084t" end="35353651667t" region="region0" style="style5"><span style="style6">（少年Ａ）</span><br/><span style="style6">見てみ　これカエルの干物や</span></p>
+<p xml:id="subtitle725" begin="35354485834t" end="35371586250t" region="region0" style="style5"><span style="style6">えらいもん食うとるなあ</span></p>
+<p xml:id="subtitle726" begin="35372420417t" end="35394942917t" region="region0" style="style5"><span style="style6">（少年Ｂ）疎開 行っとる</span><br/><span style="style6">タッちゃんやケン坊も</span></p>
+<p xml:id="subtitle727" begin="35395777084t" end="35420385000t" region="region0" style="style5"><span style="style6">こんなもんばっかり</span><br/><span style="style6">食うとるんやろか</span></p>
+<p xml:id="subtitle728" begin="35439153750t" end="35460842084t" region="region0" style="style5"><span style="style6">（少年Ｃ）オエッ</span><br/><span style="style6">ひきわり大豆ばっか</span></p>
+<p xml:id="subtitle729" begin="35461676250t" end="35478776667t" region="region0" style="style5"><span style="style6">うちの雑炊より あかんわ</span></p>
+<p xml:id="subtitle730" begin="35479610834t" end="35508806667t" region="region0" style="style5"><span style="style6">-（少年Ａ）わ～ お化けが出た</span><br/><span style="style6">-（少年たち）わあ～！</span></p>
+<p xml:id="subtitle731" begin="35509640834t" end="35538419584t" region="region0" style="style5"><span style="style6">-（少年たちの笑い声）</span><br/><span style="style6">-（少年Ｄ）あっ 待って</span></p>
+<p xml:id="subtitle732" begin="35539253750t" end="35552600417t" region="region0" style="style5"><span style="style6">あっ 待って～</span></p>
+<p xml:id="subtitle733" begin="35565947084t" end="35575540000t" region="region0" style="style5"><span style="style6">待って～</span></p>
+<p xml:id="subtitle734" begin="35576374167t" end="35608489584t" region="region0" style="style5"><span style="style6">（遠ざかる少年たちの笑い声）</span></p>
+<p xml:id="subtitle735" begin="35620167917t" end="35645192917t" region="region0" style="style5"><span style="style6">（清太）それに お母さんの着物も</span></p>
+<p xml:id="subtitle736" begin="35646027084t" end="35676474167t" region="region0" style="style5"><span style="style6">みんな 米と換えてしもて</span><br/><span style="style6">もう あらへんのです</span></p>
+<p xml:id="subtitle737" begin="35677308334t" end="35704001667t" region="region0" style="style5"><span style="style6">おじさんとこなら</span><br/><span style="style6">前に お金でいろいろ…</span></p>
+<p xml:id="subtitle738" begin="35704835834t" end="35716514167t" region="region0" style="style5"><span style="style6">（飲み込む音）</span></p>
+<p xml:id="subtitle739" begin="35721519167t" end="35753217500t" region="region0" style="style5"><span style="style6">着物とか お金とか</span><br/><span style="style6">そんなこと言うとるんやない</span></p>
+<p xml:id="subtitle740" begin="35754051667t" end="35785750000t" region="region0" style="style5"><span style="style6">うちは農家やいうても</span><br/><span style="style6">そうそう人に分けられるほどは</span></p>
+<p xml:id="subtitle741" begin="35786584167t" end="35799096667t" region="region0" style="style5"><span style="style6">作っとらんのや</span></p>
+<p xml:id="subtitle742" begin="35855402917t" end="35864995834t" region="region0" style="style5"><span style="style6">ハア～</span></p>
+<p xml:id="subtitle743" begin="35870417917t" end="35893357500t" region="region0" style="style5"><span style="style6">それより あんたら 他に身寄りは？</span></p>
+<p xml:id="subtitle744" begin="35894191667t" end="35912543334t" region="region0" style="style5"><span style="style6">それが 連絡つかへんのです</span></p>
+<p xml:id="subtitle745" begin="35913377500t" end="35956754167t" region="region0" style="style5"><span style="style6">それやったら やっぱり あのうちへ</span><br/><span style="style6">置かしてもろたほうがええ</span></p>
+<p xml:id="subtitle746" begin="35957588334t" end="35990955000t" region="region0" style="style5"><span style="style6">第一 今は</span><br/><span style="style6">何でもかんでも配給やし</span></p>
+<p xml:id="subtitle747" begin="35991789167t" end="36018482500t" region="region0" style="style5"><span style="style6">隣組に入っとらんと</span><br/><span style="style6">暮らしてはいけん</span></p>
+<p xml:id="subtitle748" begin="36028075417t" end="36055185834t" region="region0" style="style5"><span style="style6">なっ　よう謝って</span><br/><span style="style6">あすこへ置いてもらい</span></p>
+<p xml:id="subtitle749" begin="36116080000t" end="36147778334t" region="region0" style="style5"><span style="style6">すんませんでした</span><br/><span style="style6">よそを当たってみますよってに</span></p>
+<p xml:id="subtitle750" begin="36163210417t" end="36202833334t" region="region0" style="style5"><span style="style6">あんたも海軍さんの息子やろ</span><br/><span style="style6">しっかりせな あかんで</span></p>
+<p xml:id="subtitle751" begin="36246627084t" end="36264978750t" region="region0" style="style5"><span style="style6">-（男性）おい！</span><br/><span style="style6">-（機銃掃射の音）</span></p>
+<p xml:id="subtitle752" begin="36265812917t" end="36276240000t" region="region0" style="style5"><span style="style6">あっ！</span></p>
+<p xml:id="subtitle753" begin="36302099167t" end="36324621667t" region="region0" style="style5"><span style="style6">（遠ざかる飛行音）</span></p>
+<p xml:id="subtitle754" begin="36354651667t" end="36378842500t" region="region0" style="style5"><span style="style6">（セミの鳴き声）</span></p>
+<p xml:id="subtitle755" begin="36521485000t" end="36534414584t" region="region0" style="style5"><span style="style6">（節子）ええのん？</span></p>
+<p xml:id="subtitle756" begin="36539836667t" end="36551932084t" region="region0" style="style5"><span style="style6">うんうんうん</span></p>
+<p xml:id="subtitle757" begin="36619082500t" end="36646192917t" region="region0" style="style5"><span style="style6">（男性）バンザーイ</span></p>
+<p xml:id="subtitle758" begin="36647027084t" end="36665378750t" region="region0" style="style5"><span style="style6">（男性たち）バンザーイ！</span></p>
+<p xml:id="subtitle759" begin="36666212917t" end="36687067084t" region="region0" style="style5"><span style="style6">（節子）うわっ あっ…</span></p>
+<p xml:id="subtitle760" begin="36707921250t" end="36772569167t" region="region0" style="style0"><span style="style1">（男性たち：歌声）</span><br/><span style="style2"><span style="style3">大君</span><span style="style4">おおきみ</span></span>に召されたる</p>
+<p xml:id="subtitle761" begin="36781327917t" end="36790086667t" region="region0" style="style5"><span style="style6">あっ</span></p>
+<p xml:id="subtitle762" begin="36790920834t" end="36860990834t" region="region1" style="style11"><span style="style1">（男性たち）</span><br/>命 栄えある朝ぼらけ</p>
+<p xml:id="subtitle763" begin="36875171667t" end="36928975417t" region="region0" style="style0">たたえて送る一億の…</p>
+<p xml:id="subtitle764" begin="36929809584t" end="36941487917t" region="region0" style="style5"><span style="style6">あかん！</span></p>
+<p xml:id="subtitle765" begin="37165044584t" end="37192572084t" region="region0" style="style5"><span style="style6">（鳥の鳴き声）</span></p>
+<p xml:id="subtitle766" begin="37455334584t" end="37469932500t" region="region0" style="style5"><span style="style6">（息を吹きかける音）</span></p>
+<p xml:id="subtitle767" begin="37512475000t" end="37521233750t" region="region0" style="style5"><span style="style6">クッ…</span></p>
+<p xml:id="subtitle768" begin="37555434584t" end="37586715834t" region="region0" style="style5"><span style="style6">大豆でもコーリャンでも</span><br/><span style="style6">好き嫌い言うたら あかん</span></p>
+<p xml:id="subtitle769" begin="37587550000t" end="37610906667t" region="region0" style="style5"><span style="style6">ようけ食べな 大きゅうなれへんで</span></p>
+<p xml:id="subtitle770" begin="37625087500t" end="37638017084t" region="region0" style="style5"><span style="style6">（節子）兄ちゃん</span></p>
+<p xml:id="subtitle771" begin="37644690417t" end="37653032084t" region="region0" style="style5"><span style="style6">ん？</span></p>
+<p xml:id="subtitle772" begin="37658454167t" end="37700162500t" region="region0" style="style5"><span style="style6">うち… うちな</span><br/><span style="style6">おなか おかしいねん</span></p>
+<p xml:id="subtitle773" begin="37707252917t" end="37718097084t" region="region0" style="style5"><span style="style6">冷えたんか？</span></p>
+<p xml:id="subtitle774" begin="37731443750t" end="37754800417t" region="region0" style="style5"><span style="style6">もう ずっとビチビチやねん</span></p>
+<p xml:id="subtitle775" begin="37786915834t" end="37806935834t" region="region0" style="style5"><span style="style6">（物音）</span></p>
+<p xml:id="subtitle776" begin="37807770000t" end="37828207084t" region="region0" style="style5"><span style="style6">-（男性）この野郎！</span><br/><span style="style6">-（清太）うわっ</span></p>
+<p xml:id="subtitle777" begin="37829041250t" end="37854066250t" region="region0" style="style5"><span style="style6">ああっ　堪忍してください</span></p>
+<p xml:id="subtitle778" begin="37859905417t" end="37882010834t" region="region0" style="style5"><span style="style6">すんません　堪忍してください</span></p>
+<p xml:id="subtitle779" begin="37882845000t" end="37891186667t" region="region0" style="style5"><span style="style6">ああっ</span></p>
+<p xml:id="subtitle780" begin="37900362500t" end="37936648750t" region="region0" style="style5"><span style="style6">妹 病気やから ううっ…</span><br/><span style="style6">さとう汁 飲ましてやりとうて</span></p>
+<p xml:id="subtitle781" begin="37937482917t" end="37946241667t" region="region0" style="style5"><span style="style6">何ぬかす！</span><br/><span style="style6">戦時下の野荒らしは重罪やねんど</span></p>
+<p xml:id="subtitle782" begin="37946241667t" end="37971266667t" region="region0" style="style5"><span style="style6">何ぬかす！</span><br/><span style="style6">戦時下の野荒らしは重罪やねんど</span></p>
+<p xml:id="subtitle783" begin="37946241667t" end="37971266667t" region="region1" style="style7"><span style="style6">（清太のうめき声）</span></p>
+<p xml:id="subtitle784" begin="37971266667t" end="37978774167t" region="region0" style="style5"><span style="style6">何ぬかす！</span><br/><span style="style6">戦時下の野荒らしは重罪やねんど</span></p>
+<p xml:id="subtitle785" begin="37979608334t" end="37997542917t" region="region0" style="style5"><span style="style6">（男性）おっ　クッソ…</span></p>
+<p xml:id="subtitle786" begin="37998377084t" end="38010472500t" region="region0" style="style5"><span style="style6">このガキゃー！</span></p>
+<p xml:id="subtitle787" begin="38016311667t" end="38030075417t" region="region0" style="style5"><span style="style6">コラ　待たんかい！</span></p>
+<p xml:id="subtitle788" begin="38030909584t" end="38053015000t" region="region0" style="style5"><span style="style6">（２人の荒い息）</span></p>
+<p xml:id="subtitle789" begin="38099311250t" end="38108487084t" region="region0" style="style5"><span style="style6">（うめき声）</span></p>
+<p xml:id="subtitle790" begin="38123502084t" end="38139351250t" region="region0" style="style5"><span style="style6">（清太の荒い息）</span></p>
+<p xml:id="subtitle791" begin="38140185417t" end="38149361250t" region="region0" style="style5"><span style="style6">（男性）こら なんや</span></p>
+<p xml:id="subtitle792" begin="38150195417t" end="38179808334t" region="region0" style="style5"><span style="style6">こないな ちっこい芋まで</span><br/><span style="style6">掘りくさって</span></p>
+<p xml:id="subtitle793" begin="38180642500t" end="38209838334t" region="region0" style="style5"><span style="style6">この辺の畑 荒らしとったんは</span><br/><span style="style6">お前やな！</span></p>
+<p xml:id="subtitle794" begin="38210672500t" end="38223602084t" region="region0" style="style5"><span style="style6">（節子）兄ちゃん！</span></p>
+<p xml:id="subtitle795" begin="38224436250t" end="38259054167t" region="region0" style="style5"><span style="style6">ハア ハア　すんません</span><br/><span style="style6">堪忍してください</span></p>
+<p xml:id="subtitle796" begin="38259888334t" end="38276154584t" region="region0" style="style5"><span style="style6">もうしませんよってに！</span></p>
+<p xml:id="subtitle797" begin="38276988750t" end="38307018750t" region="region0" style="style5"><span style="style6">すんませんで済むねやったら</span><br/><span style="style6">警察は要らんわい</span></p>
+<p xml:id="subtitle798" begin="38307852917t" end="38339551250t" region="region0" style="style5"><span style="style6">え～い さっさと歩かんかい</span><br/><span style="style6">ブタ箱入りじゃ！</span></p>
+<p xml:id="subtitle799" begin="38340385417t" end="38367078750t" region="region0" style="style5"><span style="style6">-（節子）兄ちゃん　兄ちゃん！</span><br/><span style="style6">-（清太）妹 ほんまに病気なんです</span></p>
+<p xml:id="subtitle800" begin="38367912917t" end="38383762084t" region="region0" style="style5"><span style="style6">僕 おらな どうにもなりません</span></p>
+<p xml:id="subtitle801" begin="38384596250t" end="38407952917t" region="region0" style="style5"><span style="style6">兄ちゃん　兄ちゃん！</span></p>
+<p xml:id="subtitle802" begin="38408787084t" end="38422967917t" region="region0" style="style5"><span style="style6">（遠ざかる足音）</span></p>
+<p xml:id="subtitle803" begin="38423802084t" end="38435480417t" region="region0" style="style5"><span style="style6">兄ちゃん！</span></p>
+<p xml:id="subtitle804" begin="38460505417t" end="38486781667t" region="region0" style="style5"><span style="style6">兄ちゃん　兄ちゃん…</span></p>
+<p xml:id="subtitle805" begin="38542253750t" end="38562690834t" region="region0" style="style5"><span style="style6">（巡査）事情は よう分かった</span></p>
+<p xml:id="subtitle806" begin="38563525000t" end="38598977084t" region="region0" style="style5"><span style="style6">この件は犯人説諭および</span><br/><span style="style6">調書作成の上</span></p>
+<p xml:id="subtitle807" begin="38599811250t" end="38617328750t" region="region0" style="style5"><span style="style6">善処するよってに</span><br/><span style="style6">引き取ってよろし</span></p>
+<p xml:id="subtitle808" begin="38618162917t" end="38639017084t" region="region0" style="style5"><span style="style6">そ… そやけど…</span></p>
+<p xml:id="subtitle809" begin="38645690417t" end="38671132500t" region="region0" style="style5"><span style="style6">こんだけ殴りゃ気が済んだやろ</span></p>
+<p xml:id="subtitle810" begin="38676971667t" end="38686981667t" region="region0" style="style5"><span style="style6">うっ…</span></p>
+<p xml:id="subtitle811" begin="38687815834t" end="38705750417t" region="region0" style="style5"><span style="style6">未成年に対する暴行</span></p>
+<p xml:id="subtitle812" begin="38724102084t" end="38734112084t" region="region0" style="style5"><span style="style6">傷害！</span></p>
+<p xml:id="subtitle813" begin="38734946250t" end="38757051667t" region="region0" style="style5"><span style="style6">ほ… ほな よろしゅう頼まっさ</span></p>
+<p xml:id="subtitle814" begin="38764142084t" end="38785830417t" region="region0" style="style5"><span style="style6">（走り去る足音）</span></p>
+<p xml:id="subtitle815" begin="38794172084t" end="38823785000t" region="region0" style="style5"><span style="style6">今夜の空襲 福井やったらしいなあ</span></p>
+<p xml:id="subtitle816" begin="38852563750t" end="38879674167t" region="region0" style="style5"><span style="style6">まあ 奥で水でも１杯</span><br/><span style="style6">飲んだらどうや</span></p>
+<p xml:id="subtitle817" begin="38983110834t" end="38992286667t" region="region0" style="style5"><span style="style6">節子…</span></p>
+<p xml:id="subtitle818" begin="39056100417t" end="39072366667t" region="region0" style="style5"><span style="style6">（震える息）</span></p>
+<p xml:id="subtitle819" begin="39073200834t" end="39081959584t" region="region0" style="style5"><span style="style6">兄ちゃん！</span></p>
+<p xml:id="subtitle820" begin="39088215834t" end="39124919167t" region="region0" style="style5"><span style="style6">（清太の押し殺した泣き声）</span></p>
+<p xml:id="subtitle821" begin="39191652500t" end="39225019167t" region="region0" style="style5"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle822" begin="39254632084t" end="39265059167t" region="region0" style="style5"><span style="style6">兄ちゃん</span></p>
+<p xml:id="subtitle823" begin="39265893334t" end="39296340417t" region="region0" style="style5"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle824" begin="39338465834t" end="39362656667t" region="region0" style="style5"><span style="style6">どこ痛いのん？　いかんねえ</span></p>
+<p xml:id="subtitle825" begin="39363490834t" end="39393937917t" region="region0" style="style5"><span style="style6">お医者さん呼んで注射してもらわな</span></p>
+<p xml:id="subtitle826" begin="39441485417t" end="39452329584t" region="region0" style="style5"><span style="style6">うう…</span></p>
+<p xml:id="subtitle827" begin="39453163750t" end="39463173750t" region="region0" style="style5"><span style="style6">節子！</span></p>
+<p xml:id="subtitle828" begin="39490284167t" end="39533660834t" region="region0" style="style5"><span style="style6">（泣き声）</span></p>
+<p xml:id="subtitle829" begin="39550344167t" end="39577454584t" region="region0" style="style5"><span style="style6">兄ちゃん　はばかり行きたい</span></p>
+<p xml:id="subtitle830" begin="39598308750t" end="39611238334t" region="region0" style="style5"><span style="style6">（はなをすする音）</span></p>
+<p xml:id="subtitle831" begin="39616243334t" end="39632092500t" region="region0" style="style5"><span style="style6">そこまで我慢できるか？</span></p>
+<p xml:id="subtitle832" begin="39632926667t" end="39642519584t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle833" begin="39648775834t" end="39658368750t" region="region0" style="style5"><span style="style6">おぶさり</span></p>
+<p xml:id="subtitle834" begin="39742619584t" end="39778071667t" region="region0" style="style5"><span style="style6">お兄さんは 山へ芝刈りに</span></p>
+<p xml:id="subtitle835" begin="39778905834t" end="39799342917t" region="region0" style="style5"><span style="style6">おばあさんは…</span></p>
+<p xml:id="subtitle836" begin="39830624167t" end="39861488334t" region="region0" style="style5"><span style="style6">（爆発音）</span></p>
+<p xml:id="subtitle837" begin="39867327500t" end="39886930417t" region="region0" style="style5"><span style="style6">（機銃掃射の音）</span></p>
+<p xml:id="subtitle838" begin="39887764584t" end="39907367500t" region="region0" style="style5"><span style="style6">-（爆発音）</span><br/><span style="style6">-（女性の悲鳴）</span></p>
+<p xml:id="subtitle839" begin="39908201667t" end="39920714167t" region="region0" style="style5"><span style="style6">（女性）はよ はよ！</span></p>
+<p xml:id="subtitle840" begin="39921548334t" end="39931975417t" region="region0" style="style5"><span style="style6">-（爆発音）</span><br/><span style="style6">-（悲鳴）</span></p>
+<p xml:id="subtitle841" begin="39932809584t" end="39946990417t" region="region0" style="style5"><span style="style6">（銃声）</span></p>
+<p xml:id="subtitle842" begin="40278571667t" end="40292752500t" region="region0" style="style5"><span style="style6">（足音）</span></p>
+<p xml:id="subtitle843" begin="40293586667t" end="40310687084t" region="region0" style="style5"><span style="style6">（清太）節子　飯にしよ</span></p>
+<p xml:id="subtitle844" begin="40351561250t" end="40368244584t" region="region0" style="style5"><span style="style6">今日のカボチャ うまいで</span></p>
+<p xml:id="subtitle845" begin="40369078750t" end="40397023334t" region="region0" style="style5"><span style="style6">見てみ　ほんまの</span><br/><span style="style6">ヨウカンみたいやろ</span></p>
+<p xml:id="subtitle846" begin="40402445417t" end="40429555834t" region="region0" style="style5"><span style="style6">（節子）うち ヨウカン 嫌いや</span></p>
+<p xml:id="subtitle847" begin="40430390000t" end="40443319584t" region="region0" style="style5"><span style="style6">何 言うてんねん</span></p>
+<p xml:id="subtitle848" begin="40444153750t" end="40458334584t" region="region0" style="style5"><span style="style6">節子 食べへんかったら</span></p>
+<p xml:id="subtitle849" begin="40459168750t" end="40478771667t" region="region0" style="style5"><span style="style6">兄ちゃん お父ちゃんに</span><br/><span style="style6">怒られるやんか</span></p>
+<p xml:id="subtitle850" begin="40479605834t" end="40512972500t" region="region0" style="style5"><span style="style6">さあ 兄ちゃん食わしたるさかい</span><br/><span style="style6">元気出して食べ</span></p>
+<p xml:id="subtitle851" begin="40536746250t" end="40576369167t" region="region0" style="style5"><span style="style6">ようけ食べて はよ ようなって</span><br/><span style="style6">また一緒に海 行こ</span></p>
+<p xml:id="subtitle852" begin="40614323750t" end="40663539584t" region="region0" style="style5"><span style="style6">（空襲警報のサイレン）</span></p>
+<p xml:id="subtitle853" begin="40809935834t" end="40831624167t" region="region0" style="style5"><span style="style6">（女の子）お母さん 怖いよー！</span></p>
+<p xml:id="subtitle854" begin="40872081250t" end="40905865000t" region="region0" style="style5"><span style="style6">（焼夷弾の落下音）</span></p>
+<p xml:id="subtitle855" begin="40922548334t" end="40933809584t" region="region0" style="style5"><span style="style6">（爆発音）</span></p>
+<p xml:id="subtitle856" begin="40996789167t" end="41015140834t" region="region0" style="style5"><span style="style6">やれやれ！　わーい！</span></p>
+<p xml:id="subtitle857" begin="41121080000t" end="41151944167t" region="region0" style="style5"><span style="style6">（鈴虫の音）</span></p>
+<p xml:id="subtitle858" begin="41152778334t" end="41175717917t" region="region0" style="style5"><span style="style6">（足音）</span></p>
+<p xml:id="subtitle859" begin="41267893334t" end="41277486250t" region="region0" style="style5"><span style="style6">パーン！</span></p>
+<p xml:id="subtitle860" begin="41306682084t" end="41318777500t" region="region0" style="style5"><span style="style6">クククッ</span></p>
+<p xml:id="subtitle861" begin="41319611667t" end="41331290000t" region="region0" style="style5"><span style="style6">フフフ…</span></p>
+<p xml:id="subtitle862" begin="41332124167t" end="41374249584t" region="region0" style="style5"><span style="style6">ハハハハ ハハハハ…</span></p>
+<p xml:id="subtitle863" begin="41375083750t" end="41419294584t" region="region0" style="style5"><span style="style6">ハハハハ ハハハハ…</span></p>
+<p xml:id="subtitle864" begin="41532741250t" end="41543168334t" region="region0" style="style5"><span style="style6">プハ～</span></p>
+<p xml:id="subtitle865" begin="41544002500t" end="41571530000t" region="region0" style="style5"><span style="style6">今度こそ うまいもん</span><br/><span style="style6">食わしたるで 節子</span></p>
+<p xml:id="subtitle866" begin="41572364167t" end="41596555000t" region="region0" style="style5"><span style="style6">（鳥のさえずり）</span></p>
+<p xml:id="subtitle867" begin="41666625000t" end="41678720417t" region="region0" style="style5"><span style="style6">兄ちゃん</span></p>
+<p xml:id="subtitle868" begin="41745870834t" end="41757549167t" region="region0" style="style5"><span style="style6">兄ちゃん…</span></p>
+<p xml:id="subtitle869" begin="41782991250t" end="41804262500t" region="region0" style="style5"><span style="style6">（女性）</span><br/><span style="style6">お母ちゃんの形見やて これが？</span></p>
+<p xml:id="subtitle870" begin="41805096667t" end="41840131667t" region="region0" style="style5"><span style="style6">アホ　こんな安もんのペラペラが</span><br/><span style="style6">なんで形見やねん</span></p>
+<p xml:id="subtitle871" begin="41840965834t" end="41854729584t" region="region0" style="style5"><span style="style6">ええかげんにしとき</span></p>
+<p xml:id="subtitle872" begin="41919794584t" end="41928136250t" region="region0" style="style5"><span style="style6">あ…</span></p>
+<p xml:id="subtitle873" begin="41949407500t" end="41958583334t" region="region0" style="style5"><span style="style6">節子…</span></p>
+<p xml:id="subtitle874" begin="41977352084t" end="41986527917t" region="region0" style="style5"><span style="style6">節子！</span></p>
+<p xml:id="subtitle875" begin="42076617917t" end="42088296250t" region="region0" style="style5"><span style="style6">（息をのむ音）</span></p>
+<p xml:id="subtitle876" begin="42140014584t" end="42155029584t" region="region0" style="style5"><span style="style6">（息を吸う音）</span></p>
+<p xml:id="subtitle877" begin="42177135000t" end="42188813334t" region="region0" style="style5"><span style="style6">あ…</span></p>
+<p xml:id="subtitle878" begin="42258049167t" end="42266807917t" region="region0" style="style5"><span style="style6">節子！</span></p>
+<p xml:id="subtitle879" begin="42278903334t" end="42304345417t" region="region0" style="style5"><span style="style6">（息を吐く音）</span></p>
+<p xml:id="subtitle880" begin="42348139167t" end="42381922917t" region="region0" style="style5"><span style="style6">兄ちゃん… お水…</span></p>
+<p xml:id="subtitle881" begin="42406530834t" end="42414872500t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle882" begin="42485359584t" end="42508299167t" region="region0" style="style5"><span style="style6">-（医者）息吸って</span><br/><span style="style6">-（息を吸う音）</span></p>
+<p xml:id="subtitle883" begin="42509133334t" end="42530821667t" region="region0" style="style5"><span style="style6">-（医者）吐いて</span><br/><span style="style6">-（息を吐く音）</span></p>
+<p xml:id="subtitle884" begin="42549173334t" end="42587127917t" region="region0" style="style5"><span style="style6">それから もう何日も</span><br/><span style="style6">下痢が止まらないんです</span></p>
+<p xml:id="subtitle885" begin="42587962084t" end="42609233334t" region="region0" style="style5"><span style="style8"><span style="style9">湿疹</span><span style="style10">しっしん</span></span><span style="style6">も あせもやないみたいやし</span></p>
+<p xml:id="subtitle886" begin="42610067500t" end="42643851250t" region="region0" style="style5"><span style="style6">潮水で洗うと</span><br/><span style="style6">しみて痛がるだけなんです</span></p>
+<p xml:id="subtitle887" begin="42673881250t" end="42699323334t" region="region0" style="style5"><span style="style6">栄養失調から来る衰弱ですな</span></p>
+<p xml:id="subtitle888" begin="42707665000t" end="42730604584t" region="region0" style="style5"><span style="style6">下痢も そのせいだ</span><br/><span style="style6">はい 次の人</span></p>
+<p xml:id="subtitle889" begin="42731438750t" end="42752292917t" region="region0" style="style5"><span style="style6">何か 薬とか注射とか…</span></p>
+<p xml:id="subtitle890" begin="42758132084t" end="42773981250t" region="region0" style="style5"><span style="style6">（節子）注射 イヤや</span></p>
+<p xml:id="subtitle891" begin="42779820417t" end="42811935834t" region="region0" style="style5"><span style="style6">とにかく何か手当てしてください</span><br/><span style="style6">お願いします</span></p>
+<p xml:id="subtitle892" begin="42817357917t" end="42829453334t" region="region0" style="style5"><span style="style6">薬もなんも…</span></p>
+<p xml:id="subtitle893" begin="42836126667t" end="42870744584t" region="region0" style="style5"><span style="style6">まっ 滋養をつけることですな</span><br/><span style="style6">それしかない</span></p>
+<p xml:id="subtitle894" begin="42871578750t" end="42885342500t" region="region0" style="style5"><span style="style6">滋養いうても…</span></p>
+<p xml:id="subtitle895" begin="42897437917t" end="42909533334t" region="region0" style="style5"><span style="style6">（医者）どうしました</span></p>
+<p xml:id="subtitle896" begin="42910367500t" end="42933307084t" region="region0" style="style5"><span style="style6">（大声で）</span><br/><span style="style6">滋養なんか どこにあるんですか！</span></p>
+<p xml:id="subtitle897" begin="43422128750t" end="43436309584t" region="region0" style="style5"><span style="style6">腹減ったなあ</span></p>
+<p xml:id="subtitle898" begin="43450907500t" end="43464671250t" region="region0" style="style5"><span style="style6">何 食べたい？</span></p>
+<p xml:id="subtitle899" begin="43469676250t" end="43515972500t" region="region0" style="style5"><span style="style6">天ぷらにな</span><br/><span style="style6">おつくりにな ところてん</span></p>
+<p xml:id="subtitle900" begin="43524314167t" end="43535992500t" region="region0" style="style5"><span style="style6">もう ないか？</span></p>
+<p xml:id="subtitle901" begin="43536826667t" end="43552258750t" region="region0" style="style5"><span style="style6">アイスクリーム</span></p>
+<p xml:id="subtitle902" begin="43561434584t" end="43570610417t" region="region0" style="style5"><span style="style6">それから…</span></p>
+<p xml:id="subtitle903" begin="43582705834t" end="43603142917t" region="region0" style="style5"><span style="style6">またドロップ なめたい</span></p>
+<p xml:id="subtitle904" begin="43609816250t" end="43634424167t" region="region0" style="style5"><span style="style6">ドロップか　よっしゃ</span></p>
+<p xml:id="subtitle905" begin="43674881250t" end="43710333334t" region="region0" style="style5"><span style="style6">貯金全部 下ろしてくるわ</span><br/><span style="style6">何か ええもん</span><span style="style8"><span style="style9">買</span><span style="style10">こ</span></span><span style="style6">うてきたる</span></p>
+<p xml:id="subtitle906" begin="43711167500t" end="43735358334t" region="region0" style="style5"><span style="style6">（節子）うち なんも要らん</span></p>
+<p xml:id="subtitle907" begin="43736192500t" end="43760800417t" region="region0" style="style5"><span style="style6">うちにおって 兄ちゃん</span></p>
+<p xml:id="subtitle908" begin="43761634584t" end="43805011250t" region="region0" style="style5"><span style="style6">行かんといて 行かんといて</span></p>
+<p xml:id="subtitle909" begin="43805845417t" end="43820860417t" region="region0" style="style5"><span style="style6">行かんといて</span></p>
+<p xml:id="subtitle910" begin="43831287500t" end="43849639167t" region="region0" style="style5"><span style="style6">心配せんでもええよ 節子</span></p>
+<p xml:id="subtitle911" begin="43860900417t" end="43895518334t" region="region0" style="style5"><span style="style6">今度 貯金 下ろして</span><br/><span style="style6">お米や滋養のあるもん</span><span style="style8"><span style="style9">買</span><span style="style10">こ</span></span><span style="style6">うたら</span></p>
+<p xml:id="subtitle912" begin="43904277084t" end="43919709167t" region="region0" style="style5"><span style="style6">もう どこへも行かへん</span></p>
+<p xml:id="subtitle913" begin="43925548334t" end="43952658750t" region="region0" style="style5"><span style="style6">ずっと ずっと兄ちゃん</span><br/><span style="style6">節子のそばにおる</span></p>
+<p xml:id="subtitle914" begin="43977683750t" end="43986025417t" region="region0" style="style5"><span style="style6">約束や</span></p>
+<p xml:id="subtitle915" begin="44008130834t" end="44036075417t" region="region0" style="style5"><span style="style6">（</span><span style="style8"><span style="style9">安堵</span><span style="style10">あんど</span></span><span style="style6">の息）</span></p>
+<p xml:id="subtitle916" begin="44208330834t" end="44221260417t" region="region0" style="style5"><span style="style6">（銀行員）はい 3000円</span></p>
+<p xml:id="subtitle917" begin="44222094584t" end="44245034167t" region="region0" style="style5"><span style="style6">（男性）台風 近づいとるんやて？</span></p>
+<p xml:id="subtitle918" begin="44245868334t" end="44265471250t" region="region0" style="style5"><span style="style6">（男性）</span><br/><span style="style6">アメリカに降参してしもてから</span></p>
+<p xml:id="subtitle919" begin="44266305417t" end="44297586667t" region="region0" style="style5"><span style="style6">なんぼ</span><span style="style8"><span style="style9">神風</span><span style="style10">かみかぜ</span></span><span style="style6">が吹いたかて</span><br/><span style="style6">あとの祭りやがな アホらし</span></p>
+<p xml:id="subtitle920" begin="44298420834t" end="44324697084t" region="region0" style="style5"><span style="style6">降参て… 戦争に負けたんですか？</span></p>
+<p xml:id="subtitle921" begin="44335124167t" end="44351807500t" region="region0" style="style5"><span style="style6">なんも知らんのか あんた</span></p>
+<p xml:id="subtitle922" begin="44391013334t" end="44425631250t" region="region0" style="style5"><span style="style6">負けたって本当ですか</span><br/><span style="style6">日本が？　大日本帝国が？</span></p>
+<p xml:id="subtitle923" begin="44426465417t" end="44451490417t" region="region0" style="style5"><span style="style6">（男性）ああ 無条件降伏やがな</span></p>
+<p xml:id="subtitle924" begin="44466922500t" end="44483605834t" region="region0" style="style5"><span style="style6">連合艦隊 どないしたんや</span></p>
+<p xml:id="subtitle925" begin="44484440000t" end="44519057917t" region="region0" style="style5"><span style="style6">あかんあかん　そんなもん</span><br/><span style="style6">とうの昔に沈んでしもて</span></p>
+<p xml:id="subtitle926" begin="44519892084t" end="44534072917t" region="region0" style="style5"><span style="style6">１隻も残っとらんわい</span></p>
+<p xml:id="subtitle927" begin="44534907084t" end="44546168334t" region="region0" style="style5"><span style="style6">なんやて！</span></p>
+<p xml:id="subtitle928" begin="44547002500t" end="44572027500t" region="region0" style="style5"><span style="style6">そんなら お父ちゃんの巡洋艦も</span><br/><span style="style6">沈んでしもたんか？</span></p>
+<p xml:id="subtitle929" begin="44572861667t" end="44589962084t" region="region0" style="style5"><span style="style6">それで返事も来なんだんか？</span></p>
+<p xml:id="subtitle930" begin="44590796250t" end="44612067500t" region="region0" style="style5"><span style="style6">そんなこと わしが知るかい</span></p>
+<p xml:id="subtitle931" begin="44619157917t" end="44637092500t" region="region0" style="style5"><span style="style6">けったいな子やな</span></p>
+<p xml:id="subtitle932" begin="44643348750t" end="44674212917t" region="region0" style="style5"><span style="style6">（遠ざかる足音）</span></p>
+<p xml:id="subtitle933" begin="44680469167t" end="44691730417t" region="region0" style="style5"><span style="style6">お父ちゃんのアホ！</span></p>
+<p xml:id="subtitle934" begin="44692564584t" end="44702991667t" region="region0" style="style5"><span style="style6">（男性）あっ</span></p>
+<p xml:id="subtitle935" begin="44711750417t" end="44740529167t" region="region0" style="style5"><span style="style6">（荒い息）</span></p>
+<p xml:id="subtitle936" begin="44746785417t" end="44756378334t" region="region0" style="style5"><span style="style6">ああっ…</span></p>
+<p xml:id="subtitle937" begin="44793915834t" end="44836875417t" region="region0" style="style5"><span style="style6">（荒い息）</span></p>
+<p xml:id="subtitle938" begin="44837709584t" end="44851890417t" region="region0" style="style5"><span style="style6">（ツバをのむ音）</span></p>
+<p xml:id="subtitle939" begin="44861066250t" end="44873578750t" region="region0" style="style5"><span style="style6">腹減った</span></p>
+<p xml:id="subtitle940" begin="44929467917t" end="44938643750t" region="region0" style="style5"><span style="style6">お父ちゃん</span></p>
+<p xml:id="subtitle941" begin="44997035417t" end="45008713750t" region="region0" style="style5"><span style="style6">ううう…</span></p>
+<p xml:id="subtitle942" begin="45020809167t" end="45038326667t" region="region0" style="style5"><span style="style6">お父ちゃんも死んだ…</span></p>
+<p xml:id="subtitle943" begin="45059180834t" end="45075447084t" region="region0" style="style5"><span style="style6">お父ちゃんも死んだ…</span></p>
+<p xml:id="subtitle944" begin="45076281250t" end="45094215834t" region="region0" style="style5"><span style="style6">（飛行機のごう音）</span></p>
+<p xml:id="subtitle945" begin="45095050000t" end="45110065000t" region="region0" style="style5"><span style="style6">お父ちゃんも… ああっ</span></p>
+<p xml:id="subtitle946" begin="45167205417t" end="45180135000t" region="region0" style="style5"><span style="style6">あ…</span></p>
+<p xml:id="subtitle947" begin="45297335417t" end="45323611667t" region="region0" style="style5"><span style="style6">（なめる音）</span></p>
+<p xml:id="subtitle948" begin="45377415417t" end="45406611250t" region="region0" style="style5"><span style="style6">（木々がざわめく音）</span></p>
+<p xml:id="subtitle949" begin="45437475417t" end="45464168750t" region="region0" style="style5"><span style="style6">（ブランコがきしむ音）</span></p>
+<p xml:id="subtitle950" begin="45492530417t" end="45522560417t" region="region1" style="style7"><span style="style6">（なめる音）</span></p>
+<p xml:id="subtitle951" begin="45539660834t" end="45559680834t" region="region1" style="style7"><span style="style6">節子</span><br/><span style="style6">遅うなってごめん</span></p>
+<p xml:id="subtitle952" begin="45565520000t" end="45590962084t" region="region1" style="style7"><span style="style6">今 白いおかゆさん</span><br/><span style="style6">炊いたるさかいな</span></p>
+<p xml:id="subtitle953" begin="45591796250t" end="45609730834t" region="region1" style="style7"><span style="style6">（節子）上 行った…</span></p>
+<p xml:id="subtitle954" begin="45633087500t" end="45649353750t" region="region1" style="style7"><span style="style6">下 行った…</span></p>
+<p xml:id="subtitle955" begin="45650187917t" end="45668539584t" region="region1" style="style7"><span style="style6">（なめる音）</span></p>
+<p xml:id="subtitle956" begin="45679383750t" end="45704408750t" region="region1" style="style7"><span style="style6">あ… とまった</span></p>
+<p xml:id="subtitle957" begin="45705242917t" end="45730685000t" region="region1" style="style7"><span style="style6">うまいこと かしわも</span><br/><span style="style6">卵も買えたんやで</span></p>
+<p xml:id="subtitle958" begin="45758629584t" end="45775312917t" region="region0" style="style5"><span style="style6">それからな… ん？</span></p>
+<p xml:id="subtitle959" begin="45858312500t" end="45878332500t" region="region0" style="style5"><span style="style6">節子　何 なめとるんや</span></p>
+<p xml:id="subtitle960" begin="45925045834t" end="45953824584t" region="region0" style="style5"><span style="style6">これ おはじきやろ</span><br/><span style="style6">ドロップちゃうやんか</span></p>
+<p xml:id="subtitle961" begin="45975930000t" end="46001789167t" region="region1" style="style7"><span style="style6">今日は兄ちゃん もっと</span><br/><span style="style6">ええもんもろてきたんや</span></p>
+<p xml:id="subtitle962" begin="46002623334t" end="46020557917t" region="region1" style="style7"><span style="style6">節子の大好きなもんやで</span></p>
+<p xml:id="subtitle963" begin="46050587917t" end="46079783750t" region="region1" style="style7"><span style="style6">（節子）</span><br/><span style="style6">兄ちゃん　どうぞ…</span></p>
+<p xml:id="subtitle964" begin="46126497084t" end="46142346250t" region="region0" style="style5"><span style="style6">なんや？　節子</span></p>
+<p xml:id="subtitle965" begin="46148185417t" end="46160697917t" region="region0" style="style5"><span style="style6">ごはんや…</span></p>
+<p xml:id="subtitle966" begin="46181552084t" end="46210330834t" region="region0" style="style5"><span style="style6">おから炊いたんも</span><br/><span style="style6">あげましょうね…</span></p>
+<p xml:id="subtitle967" begin="46230350834t" end="46257461250t" region="region0" style="style5"><span style="style6">どうぞ お上がり…</span></p>
+<p xml:id="subtitle968" begin="46304591667t" end="46322109167t" region="region0" style="style5"><span style="style6">食べへんのん？</span></p>
+<p xml:id="subtitle969" begin="46331285000t" end="46341712084t" region="region0" style="style5"><span style="style6">（清太）節子…</span></p>
+<p xml:id="subtitle970" begin="46439726667t" end="46475178750t" region="region0" style="style5"><span style="style6">ほら スイカや すごいやろ</span><br/><span style="style6">盗んだんやないで</span></p>
+<p xml:id="subtitle971" begin="46598218334t" end="46613650417t" region="region0" style="style5"><span style="style6">ほら スイカや</span></p>
+<p xml:id="subtitle972" begin="46697484167t" end="46712499167t" region="region0" style="style5"><span style="style6">おいしい…</span></p>
+<p xml:id="subtitle973" begin="46760880834t" end="46771307917t" region="region0" style="style5"><span style="style6">待っててや</span></p>
+<p xml:id="subtitle974" begin="46772142084t" end="46796332917t" region="region0" style="style5"><span style="style6">すぐ卵入りのおかゆさん</span><br/><span style="style6">作るさかい</span></p>
+<p xml:id="subtitle975" begin="46871825000t" end="46895181667t" region="region0" style="style5"><span style="style6">スイカ ここへ置いとくさかいな</span></p>
+<p xml:id="subtitle976" begin="46911865000t" end="46920206667t" region="region0" style="style5"><span style="style6">なっ</span></p>
+<p xml:id="subtitle977" begin="46934804584t" end="46948151250t" region="region0" style="style5"><span style="style6">兄ちゃん…</span></p>
+<p xml:id="subtitle978" begin="46960663750t" end="46976930000t" region="region0" style="style5"><span style="style6">おおきに…</span></p>
+<p xml:id="subtitle979" begin="47226345834t" end="47258878334t" region="region0" style="style0"><span style="style1">（清太の声）</span>節子は<br/>そのまま目を覚まさなかった</p>
+<p xml:id="subtitle980" begin="47434887500t" end="47460746667t" region="region0" style="style5"><span style="style6">（吹き荒れる風の音）</span></p>
+<p xml:id="subtitle981" begin="47785237500t" end="47811930834t" region="region0" style="style5"><span style="style6">はい　特配の炭 １俵な</span></p>
+<p xml:id="subtitle982" begin="47817770000t" end="47849885417t" region="region0" style="style5"><span style="style6">子供さんやったら</span><br/><span style="style6">お寺の隅など借りて焼かせてもらい</span></p>
+<p xml:id="subtitle983" begin="47859895417t" end="47887840000t" region="region0" style="style5"><span style="style6">裸にしてな</span><br/><span style="style6">大豆の殻で火ぃつけると</span></p>
+<p xml:id="subtitle984" begin="47888674167t" end="47902020834t" region="region0" style="style5"><span style="style6">うまいこと燃えるわ</span></p>
+<p xml:id="subtitle985" begin="47911613750t" end="47938724167t" region="region0" style="style5"><span style="style6">せやけど ええ天気やなぁ</span></p>
+<p xml:id="subtitle986" begin="47962915000t" end="47988774167t" region="region0" style="style5"><span style="style6">（若い女性たちの笑い声）</span></p>
+<p xml:id="subtitle987" begin="47989608334t" end="48014216250t" region="region0" style="style5"><span style="style6">（女性）いや～</span><br/><span style="style6">ちょっとも変わっとらんわ</span></p>
+<p xml:id="subtitle988" begin="48015050417t" end="48029648334t" region="region0" style="style5"><span style="style6">（女性）</span><br/><span style="style6">やっぱり我が家はええなぁ</span></p>
+<p xml:id="subtitle989" begin="48029648334t" end="48039241250t" region="region0" style="style5"><span style="style6">（女性）</span><br/><span style="style6">やっぱり我が家はええなぁ</span></p>
+<p xml:id="subtitle990" begin="48029648334t" end="48039241250t" region="region1" style="style7"><span style="style6">（蓄音機の音楽</span><br/><span style="style6">「</span><span style="style8"><span style="style9">埴生</span><span style="style10">はにゅう</span></span><span style="style6">の宿」）</span></p>
+<p xml:id="subtitle991" begin="48039241250t" end="48040075417t" region="region1" style="style7"><span style="style6">（蓄音機の音楽</span><br/><span style="style6">「</span><span style="style8"><span style="style9">埴生</span><span style="style10">はにゅう</span></span><span style="style6">の宿」）</span></p>
+<p xml:id="subtitle992" begin="48040075417t" end="48068854167t" region="region1" style="style7"><span style="style6">（蓄音機の音楽</span><br/><span style="style6">「</span><span style="style8"><span style="style9">埴生</span><span style="style10">はにゅう</span></span><span style="style6">の宿」）</span></p>
+<p xml:id="subtitle993" begin="48040075417t" end="48068854167t" region="region0" style="style5"><span style="style6">（女性たちの笑い声）</span></p>
+<p xml:id="subtitle994" begin="48068854167t" end="48069688334t" region="region1" style="style7"><span style="style6">（蓄音機の音楽</span><br/><span style="style6">「</span><span style="style8"><span style="style9">埴生</span><span style="style10">はにゅう</span></span><span style="style6">の宿」）</span></p>
+<p xml:id="subtitle995" begin="48069688334t" end="48099718334t" region="region1" style="style7"><span style="style6">（蓄音機の音楽</span><br/><span style="style6">「</span><span style="style8"><span style="style9">埴生</span><span style="style10">はにゅう</span></span><span style="style6">の宿」）</span></p>
+<p xml:id="subtitle996" begin="48069688334t" end="48099718334t" region="region0" style="style5"><span style="style6">（女性）久しぶりやわ　蓄音機！</span></p>
+<p xml:id="subtitle997" begin="48124743334t" end="48142260834t" region="region0" style="style5"><span style="style6">ああ～</span></p>
+<p xml:id="subtitle998" begin="48143095000t" end="48178130000t" region="region0" style="style5"><span style="style6">懐かしい景色やわぁ　なあ？</span></p>
+<p xml:id="subtitle999" begin="48178964167t" end="48215667500t" region="region0" style="style5"><span style="style6">（笑い声）</span></p>
+<p xml:id="subtitle1000" begin="48488440000t" end="48538907084t" region="region0" style="style5"><span style="style6">（節子の笑い声）</span></p>
+<p xml:id="subtitle1001" begin="48629414167t" end="48648182917t" region="region0" style="style0"><span style="style1">（節子）</span>はよ お帰り</p>
+<p xml:id="subtitle1002" begin="49722589584t" end="49752619584t" region="region0" style="style5"><span style="style6">（鳥のさえずり）</span></p>
+<p xml:id="subtitle1003" begin="50824940834t" end="50839121667t" region="region0" style="style0"><span style="style1">（清太の声）</span>翌朝 僕は</p>
+<p xml:id="subtitle1004" begin="50839955834t" end="50865397917t" region="region0" style="style0">ローセキのかけらのような<br/>節子の骨を</p>
+<p xml:id="subtitle1005" begin="50866232084t" end="50887920417t" region="region0" style="style0">ドロップの缶に納めて山を下り</p>
+<p xml:id="subtitle1006" begin="50899598750t" end="50920452917t" region="region0" style="style0">そのまま壕へは戻らなかった</p>
+<p xml:id="subtitle1007" begin="50991774167t" end="51010125834t" region="region0" style="style0"><span style="style1">（節子の声）</span>兄ちゃーん</p>
+<p xml:id="subtitle1008" begin="51184049584t" end="51198230417t" region="region0" style="style5"><span style="style6">もう遅いから お休み</span></p>
+<p xml:id="subtitle1009" begin="51199064584t" end="51207406250t" region="region0" style="style5"><span style="style6">うん</span></p>
+<p xml:id="subtitle1010" begin="51255370834t" end="51298330417t" region="region0" style="style5"><span style="style6">♪～</span></p>
+<p xml:id="subtitle1011" begin="53022970000t" end="53073020000t" region="region0" style="style5"><span style="style6">～♪</span></p>
+</div>
+</body>
+</tt>
